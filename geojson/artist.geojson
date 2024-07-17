@@ -1,0 +1,4512 @@
+{
+  "type": "FeatureCollection",
+  "features":
+	[
+		{
+		    "type": "Feature",
+		    "properties": {
+		    	"title": "TivoliVredenburg",
+                "marker-color": "#f80046",
+                "marker-symbol": "marker-15"
+			},
+			"geometry": {
+		        "type": "Point",
+		        "coordinates": [
+		        	5.113048,
+		        	52.092537 
+		        ]
+		    },
+		    "information": {
+		    	"dateOfShow": "Sunday 10 January 2016",
+				"supportAct": "The Sleeping Souls",
+				"venue": "TivoliVredenburg",
+				"venueId": 2360344,
+				"venueImg": true,
+				"city": "Utrecht",
+				"metroId": 31410,
+				"country":"Netherlands",
+				"distanceSoFar": 0
+		    }
+		},
+		{
+			"type": "Feature",
+			"properties": {
+		    	"title": "Skaters Palace",
+                "marker-color": "#ed184a",
+                "marker-symbol": "marker-15"
+			},
+		    "information": {
+				"dateOfShow": "Monday 11 January 2016",
+				"supportAct": "The Sleeping Souls",
+				"venue": "Skaters Palace",
+				"venueId": 41438,
+				"city": "Münster",
+				"metroId": 28550,
+				"country":"Germany",
+				"distanceSoFar": 212
+			},
+			"geometry": {
+		        "type": "Point",
+		        "coordinates": [
+		        	7.629430,
+		          	51.938340  
+		        ]
+		    }
+		},
+		{
+			"type": "Feature",
+			"properties": {
+		    	"title": "Capitol",
+                "marker-color": "#ed184a",
+                "marker-symbol": "marker-15"
+			},
+			"information": {
+				"dateOfShow": "Tuesday 12 January 2016",
+				"supportAct": "The Sleeping Souls",
+				"venue": "Capitol",
+				"venueId": 36697,
+				"venueImg": true,
+				"city": "Hannover",
+				"metroId": 34498,
+				"country": "Germany",
+				"distanceSoFar": 411
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					9.720357400000012,
+					52.3684144
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+		    	"title": "Werk 2 - Kulturfabrik Leipzig e.V.",
+                "marker-color": "#ed184a",
+                "marker-symbol": "marker-15"
+			},
+			"information": {
+				"dateOfShow": "Thursday 14 January 2016",
+				"venue": "Werk 2 - Kulturfabrik Leipzig e.V.",
+				"venueId": 2461859,
+				"city": "Leipzig",
+				"metroId": 28528,
+				"country": "Germany",
+				"distanceSoFar": 683
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					12.371772,
+					51.310311
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+		    	"title": "Max Nachttheater",
+                "marker-color": "#ed184a",
+                "marker-symbol": "marker-15"
+			},
+			"information": {
+				"dateOfShow": "Friday 15 January 2016",
+				"supportAct": "The Sleeping Souls",
+				"venue": "Max Nachttheater",
+				"venueId": 2468734,
+				"city": "Kiel",
+				"metroId": 28522,
+				"country": "Germany",
+				"distanceSoFar": 1193
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					10.111867,
+					54.332478
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+		    	"title": "Pier 2",
+                "marker-color": "#ed184a",
+                "marker-symbol": "marker-15"
+			},
+			"information": {
+				"dateOfShow": "Saturday 16 January 2016",
+				"supportAct": "The Sleeping Souls",
+				"venue": "Pier 2",
+				"venueId": 29603,
+				"city": "Bremen",
+				"metroId": 28450,
+				"country": "Germany",
+				"distanceSoFar": 1412
+
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.750966,
+					53.108367
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+		    	"title": "Huxleys Neue Welt",
+                "marker-color": "#ed184a",
+                "marker-symbol": "marker-15"
+			},
+			"information": {
+				"dateOfShow": "Sunday 17 January 2016",
+				"supportAct": "The Sleeping Souls, Skinny Lister, and Will Varley",
+				"venue": "Huxleys Neue Welt",
+				"venueId": 29588,
+				"city": "Berlin",
+				"metroId": 28443,
+				"country": "Germany",
+				"distanceSoFar": 1832
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					13.421590,
+					52.486453
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+		    	"title": "Volkshaus",
+                "marker-color": "#ed184a",
+                "marker-symbol": "marker-15"
+			},
+			"information": {
+				"dateOfShow": "Tuesday 19 January 2016",
+				"supportAct": "The Sleeping Souls",
+				"venue": "Volkshaus",
+				"venueId": 29644,
+				"city": "Zürich",
+				"metroId": 104761,
+				"country": "Switzerland",
+				"distanceSoFar": 2677
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.527224,
+					47.375458
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+		    	"title": "LKA-Longhorn",
+                "marker-color": "#ed184a",
+                "marker-symbol": "marker-15"
+			},
+			"information": {
+				"dateOfShow": "Wednesday 20 January 2016",
+				"supportAct": "The Sleeping Souls",
+				"venue": "LKA-Longhorn",
+				"venueId": 30213,
+				"city": "Stuttgart",
+				"metroId": 28591,
+				"country": "Germany",
+				"distanceSoFar": 2903
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					9.251655,
+					48.767235
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+		    	"title": "TonHalle München",
+                "marker-color": "#ed184a",
+                "marker-symbol": "marker-15"
+			},
+			"information": {
+				"dateOfShow": "Thursday 21 January 2016",
+				"supportAct": "The Sleeping Souls",
+				"venue": "TonHalle München",
+				"venueId": 2417134,
+				"city": "Munich",
+				"metroId": 28549,
+				"country": "Germany",
+				"distanceSoFar": 3134
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					11.606541,
+					48.123559
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+		    	"title": "Planet.tt Bank Austria Halle Gasometer B",
+                "marker-color": "#ed184a",
+                "marker-symbol": "marker-15"
+			},
+			"information": {
+				"dateOfShow": "Saturday 23 January 2016",
+				"supportAct": "The Sleeping Souls",
+				"venue": "Planet.tt Bank Austria Halle Gasometer B",
+				"venueId": 52993,
+				"city": "Vienna",
+				"metroId": 26771,
+				"country": "Austria",
+				"distanceSoFar": 3567
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					16.419385,
+					48.184802
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+		    	"title": "Orpheum",
+                "marker-color": "#ed184a",
+                "marker-symbol": "marker-15"
+			},
+			"information": {
+				"dateOfShow": "Sunday 24 January 2016",
+				"supportAct": "The Sleeping Souls",
+				"venue": "Orpheum",
+				"venueId": 47598,
+				"city": "Graz",
+				"metroId": 26766,
+				"country": "Austria",
+				"distanceSoFar": 3768
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					15.430886,
+					47.071654
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+		    	"title": "Schlachthof",
+                "marker-color": "#ed184a",
+                "marker-symbol": "marker-15"
+			},
+			"information": {
+				"dateOfShow": "Monday 25 January 2016",
+				"supportAct": "The Sleeping Souls",
+				"venue": "Schlachthof",
+				"venueId": 508101,
+				"city": "Wiesbaden",
+				"metroId": 28450,
+				"country": "Germany",
+				"distanceSoFar": 4511
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.248071,
+					50.066147
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+		    	"title": "Docks",
+                "marker-color": "#ed184a",
+                "marker-symbol": "marker-15"
+			},
+			"information": {
+				"dateOfShow": "Wednesday 27 January 2016",
+				"venue": "Docks",
+				"venueId": 29587,
+				"city": "Hamburg",
+				"metroId": 28498,
+				"country": "Germany",
+				"distanceSoFar": 5031
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					9.964537,
+					53.549292
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+		    	"title": "Docks",
+                "marker-color": "#ed184a",
+                "marker-symbol": "marker-15"
+			},
+			"information": {
+				"dateOfShow": "Thursday 28 January 2016",
+				"venue": "Docks",
+				"venueId": 29587,
+				"city": "Hamburg",
+				"metroId": 28498,
+				"country": "Germany",
+				"distanceSoFar": 5031
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					9.964537,
+					53.549292
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+		    	"title": "Palladium",
+                "marker-color": "#ed184a",
+                "marker-symbol": "marker-15"
+			},
+			"information": {
+				"dateOfShow": "Friday 29 January 2016",
+				"venue": "Palladium",
+				"venueId": 29545,
+				"city": "Cologne",
+				"metroId": 28456,
+				"country": "Germany",
+				"distanceSoFar": 5451
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					7.017150,
+					50.969050
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+		    	"title": "Goa",
+                "marker-color": "#ed184a",
+                "marker-symbol": "marker-15"
+			},
+			"information": {
+				"dateOfShow": "Thursday 04 February 2016",
+				"city": "Goa",
+				"metroId": 54200,
+				"country": "India",
+				"distanceSoFar": 12546
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					74.123996,
+					15.299326
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+		    	"title": "Cavern Club",
+                "marker-color": "#ed184a",
+                "marker-symbol": "marker-15"
+			},
+			"information": {
+				"dateOfShow": "Wednesday 10 February 2016",
+				"supportAct": "The Cut Ups",
+				"venue": "Cavern Club",
+				"venueId": 17739,
+				"city": "Exeter",
+				"metroId": 24609,
+				"country": "UK",
+				"distanceSoFar": 20374
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-3.531682,
+					50.724639
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+		    	"title": "Limelight",
+                "marker-color": "#ed184a",
+                "marker-symbol": "marker-15"
+			},
+			"information": {
+				"dateOfShow": "Thursday 11 February 2016",
+				"venue": "Limelight",
+				"venueId": 16572,
+				"city": "Belfast",
+				"metroId": 24523,
+				"country": "UK",
+				"distanceSoFar": 20897
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-5.928524,
+					54.592818
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+		    	"title": "Academy",
+                "marker-color": "#ed184a",
+                "marker-symbol": "marker-15"
+			},
+			"information": {
+				"dateOfShow": "Friday 12 February 2016",
+				"venue": "Academy",
+				"venueId": 30014,
+				"city": "Dublin",
+				"metroId": 29314,
+				"country": "Ireland",
+				"distanceSoFar": 21001
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-6.261998,
+					53.348030
+				]
+			}
+		},
+		{
+			"type": "Feature",
+				"properties": {
+		    	"title": "BBC Radio 6 Music Festival 2016",
+                "marker-color": "#ed184a",
+                "marker-symbol": "marker-15"
+			},
+			"information": {
+				"dateOfShow": "Friday 12 February 2016 – Sunday 14 February 2016",
+				"supportAct": "Foals, Beirut, Daughter, Yeasayer, Primal Scream, Underworld, and Tricky",
+				"festival": true,
+				"venue": "BBC Radio 6 Music Festival 2016",
+				"venueImg": "//images.sk-static.com/images/media/profile_images/events/25668219/huge_avatar",
+				"city": "Bristol",
+				"metroId": 24521,
+				"country": "UK",
+				"distanceSoFar": 21533
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-2.587910,
+					51.454513
+				]
+			}
+		},
+		{
+			"type": "Feature",
+				"properties": {
+		    	"title": "Cavern Club",
+                "marker-color": "#ed184a",
+                "marker-symbol": "marker-15"
+			},
+			"information": {
+				"dateOfShow": "Monday 15 February 2016",
+				"supportAct": "The Cut Ups",
+				"venue": "Cavern Club",
+				"venueId": 17739,
+				"city": "Exeter",
+				"metroId": 24609,
+				"country": "UK",
+				"distanceSoFar": 21613
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-3.5316824000000224,
+					50.7246392
+				]
+			}
+		},
+		{
+			"type": "Feature",
+				"properties": {
+		    	"title": "The Monarch",
+                "marker-color": "#ed184a",
+                "marker-symbol": "marker-15"
+			},
+			"information": {
+				"dateOfShow": "Tuesday 16 February 2016",
+				"venue": "The Monarch",
+				"venueId": 30475,
+				"city": "London",
+				"metroId": 24426,
+				"country": "UK",
+				"distanceSoFar": 21796
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-0.14845969999998943,
+					51.5429597
+				]
+			}
+		},
+		{
+			"type": "Feature",
+				"properties": {
+		    	"title": "The Marquee Club",
+                "marker-color": "#ed184a",
+                "marker-symbol": "marker-15"
+			},
+			"information": {
+				"dateOfShow": "Thursday 18 February 2016",
+				"supportAct": "The Sleeping Souls",
+				"venue": "The Marquee Club",
+				"venueId": 32174,
+				"city": "Halifax, NS",
+				"metroId": 27366,
+				"country": "Canada",
+				"distanceSoFar": 26417
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-63.582026600000006,
+					44.651263
+				]
+			}
+		},
+		{
+			"type": "Feature",
+				"properties": {
+		    	"title": "Tide and Boar",
+                "marker-color": "#ed184a",
+                "marker-symbol": "marker-15"
+			},
+			"information": {
+				"dateOfShow": "Friday 19 February 2016",
+				"venue": "Tide and Boar",
+				"venueId": 1609059,
+				"city": "Moncton, NB",
+				"metroId": 27376,
+				"country": "Canada",
+				"distanceSoFar": 26682
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-64.7758531,
+					46.0887082
+				]
+			}
+		},
+		{
+			"type": "Feature",
+				"properties": {
+		    	"title": "The Capital Bar",
+                "marker-color": "#ed184a",
+                "marker-symbol": "marker-15"
+			},
+			"information": {
+				"dateOfShow": "Saturday 20 February 2016",
+				"venue": "The Capital Bar",
+				"venueId": 3016384,
+				"city": "Fredericton, NB",
+				"metroId": 27363,
+				"country": "Canada",
+				"distanceSoFar": 26862
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-66.64416640000002,
+					45.9632818
+				]
+			}
+		},
+		{
+			"type": "Feature",
+				"properties": {
+		    	"title": "The Mansion",
+                "marker-color": "#ed184a",
+                "marker-symbol": "marker-15"
+			},
+			"information": {
+				"dateOfShow": "Sunday 21 February 2016",
+				"supportAct": "Northcote",
+				"venue": "The Mansion",
+				"venueId": 599506,
+				"city": "Kingston, ON",
+				"metroId": 27371,
+				"country": "Canada",
+				"distanceSoFar": 27973
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-76.49677580000002,
+					44.23465729999999
+				]
+			}
+		},
+		{
+			"type": "Feature",
+				"properties": {
+		    	"title": "The Mansion",
+                "marker-color": "#ed184a",
+                "marker-symbol": "marker-15"
+			},
+			"information": {
+				"dateOfShow": "Monday 22 February 2016",
+				"supportAct": "Northcote",
+				"venue": "The Mansion",
+				"venueId": 599506,
+				"city": "Kingston, ON",
+				"metroId": 27371,
+				"country": "Canada",
+				"distanceSoFar": 27973
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-76.49677580000002,
+					44.23465729999999
+				]
+			}
+		},
+		{
+			"type": "Feature",
+				"properties": {
+		    	"title": "London Music Hall",
+                "marker-color": "#ed184a",
+                "marker-symbol": "marker-15"
+			},
+			"information": {
+				"dateOfShow": "Tuesday 23 February 2016",
+				"supportAct": "Northcote",
+				"venue": "London Music Hall",
+				"venueId": 699776,
+				"city": "London, ON",
+				"metroId": 27374,
+				"country": "Canada",
+				"distanceSoFar": 28414
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-81.24913900000001,
+					42.98406010000001
+				]
+			}
+		},
+		{
+			"type": "Feature",
+				"properties": {
+		    	"title": "Maxwell's Concerts and Events",
+                "marker-color": "#ed184a",
+                "marker-symbol": "marker-15"
+			},
+			"information": {
+				"dateOfShow": "Wednesday 24 February 2016",
+				"venue": "Maxwell's Concerts and Events",
+				"venueId": 2873878,
+				"venueImg": true,
+				"city": "Waterloo, ON",
+				"metroId": 27400,
+				"country": "Canada",
+				"distanceSoFar": 28530
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.5221338,
+					43.4768774
+				]
+			}
+		},
+		{
+			"type": "Feature",
+				"properties": {
+		    	"title": "Crocks",
+                "marker-color": "#ed184a",
+                "marker-symbol": "marker-15"
+			},
+			"information": {
+				"dateOfShow": "Thursday 25 February 2016",
+				"venue": "Crocks",
+				"venueId": 1040476,
+				"city": "Thunder Bay, ON",
+				"metroId": 27395,
+				"country": "Canada",
+				"distanceSoFar": 30005
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-89.22016939999997,
+					48.434162
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+		    	"title": "Turf Club",
+                "marker-color": "#ed184a",
+                "marker-symbol": "marker-15"
+			},
+			"information": {
+				"dateOfShow": "Friday 26 February 2016",
+				"venue": "Turf Club",
+				"venueId": 11249,
+				"city": "St. Paul, MN",
+				"metroId": 35130,
+				"country": "US",
+				"distanceSoFar": 30550
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-93.16796299999999,
+					44.9559939
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+		    	"title": "Grand Casino Hinckley",
+                "marker-color": "#ed184a",
+                "marker-symbol": "marker-15"
+			},
+			"information": {
+				"dateOfShow": "Saturday 27 February 2016",
+				"venue": "Grand Casino Hinckley",
+				"venueId": 498756,
+				"venueImg": true,
+				"city": "Hinckley, MN",
+				"metroId": 35130,
+				"country": "US",
+				"distanceSoFar": 30679
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-92.89738699999998,
+					46.009213
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+		    	"title": "International Beer Haus & Stage",
+                "marker-color": "#ed184a",
+                "marker-symbol": "marker-15"
+			},
+			"information": {
+				"dateOfShow": "Monday 29 February 2016",
+				"supportAct": "Northcote",
+				"venue": "International Beer Haus & Stage",
+				"venueId": 2186234,
+				"city": "Red Deer, AB",
+				"metroId": 27385,
+				"country": "Canada",
+				"distanceSoFar": 32671
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-113.81488580000001,
+					52.2672233
+				]
+			}
+		},
+		{
+			"type": "Feature",
+				"properties": {
+		    	"title": "The Drake",
+                "marker-color": "#ed184a",
+                "marker-symbol": "marker-15"
+			},
+			"information": {
+				"dateOfShow": "Tuesday 01 March 2016",
+				"supportAct": "Northcote",
+				"venue": "The Drake",
+				"venueId": 117096,
+				"city": "Canmore, AB",
+				"metroId": 27359,
+				"country": "Canada",
+				"distanceSoFar": 32912
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-115.35504159999999,
+					51.0900614
+				]
+			}
+		},
+		{
+			"type": "Feature",
+				"properties": {
+		    	"title": "Flashbacks",
+                "marker-color": "#ed184a",
+                "marker-symbol": "marker-15"
+			},
+			"information": {
+				"dateOfShow": "Wednesday 02 March 2016",
+				"supportAct": "Northcote",
+				"venue": "Flashbacks",
+				"venueId": 65616,
+				"city": "Kelowna, BC",
+				"metroId": 27370,
+				"country": "Canada",
+				"distanceSoFar": 33416
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-119.49570419999998,
+					49.89263629999999
+				]
+			}
+		},
+		{
+			"type": "Feature",
+				"properties": {
+		    	"title": "Commodore Ballroom",
+                "marker-color": "#ed184a",
+                "marker-symbol": "marker-15"
+			},
+			"information": {
+				"dateOfShow": "Thursday 03 March 2016",
+				"supportAct": "The Sleeping Souls, Northcote, and Mo Kenney",
+				"venue": "Commodore Ballroom",
+				"venueId": 30021,
+				"venueImg2": true,
+				"city": "Vancouver, BC",
+				"metroId": 27398,
+				"country": "Canada",
+				"distanceSoFar": 33841
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-123.12060780000002,
+					49.28047999999999
+				]
+			}
+		},
+		{
+			"type": "Feature",
+				"properties": {
+		    	"title": "MacEwan Ballroom - University of Calgary",
+                "marker-color": "#ed184a",
+                "marker-symbol": "marker-15"
+			},
+			"information": {
+				"dateOfShow": "Saturday 05 March 2016",
+				"supportAct": "Northcote and Mo Kenney",
+				"venue": "MacEwan Ballroom - University of Calgary",
+				"venueId": 53688,
+				"city": "Calgary, AB",
+				"metroId": 27359,
+				"country": "Canada",
+				"distanceSoFar": 34841
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-114.1358007,
+					51.07815989999999
+				]
+			}
+		},
+		{
+			"type": "Feature",
+				"properties": {
+		    	"title": "Union Hall",
+                "marker-color": "#ed184a",
+                "marker-symbol": "marker-15"
+			},
+			"information": {
+				"dateOfShow": "Sunday 06 March 2016",
+				"supportAct": "Northcote and Mo Kenney",
+				"venue": "Union Hall",
+				"venueId": 35610,
+				"city": "Edmonton, AB",
+				"metroId": 27362,
+				"country": "Canada",
+				"distanceSoFar": 35141
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-113.48750719999998,
+					53.4986976
+				]
+			}
+		},
+		{
+			"type": "Feature",
+				"properties": {
+		    	"title": "O'Brian's Event Centre",
+                "marker-color": "#ed184a",
+                "marker-symbol": "marker-15"
+			},
+			"information": {
+				"dateOfShow": "Monday 07 March 2016",
+				"supportAct": "Northcote and Mo Kenney",
+				"venue": "O'Brian's Event Centre",
+				"venueId":2477534,
+				"venueImg": true,
+				"city": "Saskatoon, SK",
+				"metroId": 27391,
+				"country": "Canada",
+				"distanceSoFar": 35666
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-106.66533909999998,
+					52.12662279999999
+				]
+			}
+		},
+		{
+			"type": "Feature",
+				"properties": {
+		    	"title": "Garrick Centre",
+                "marker-color": "#ed184a",
+                "marker-symbol": "marker-15"
+			},
+			"information": {
+				"dateOfShow": "Tuesday 08 March 2016",
+				"supportAct": "Northcote and Mo Kenney",
+				"venue": "Garrick Centre",
+				"venueId": 30206,
+				"city": "Winnipeg, MB",
+				"metroId": 27403,
+				"country": "Canada",
+				"distanceSoFar": 36466
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-97.14166230000001,
+					49.89545990000001
+				]
+			}
+		},
+		{
+			"type": "Feature",
+				"properties": {
+		    	"title": "The Garrison",
+                "marker-color": "#ed184a",
+                "marker-symbol": "marker-15"
+			},
+			"information": {
+				"dateOfShow": "Thursday 10 March 2016",
+				"venue": "The Garrison",
+				"venueId": 523786,
+				"venueImg2": true,
+				"city": "Toronto, ON",
+				"metroId": 27396,
+				"country": "Canada",
+				"distanceSoFar": 38528
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.4223321,
+					43.64926589999999
+				]
+			}
+		},
+		{
+			"type": "Feature",
+				"properties": {
+		    	"title": "Danforth Music Hall",
+                "marker-color": "#ed184a",
+                "marker-symbol": "marker-15"
+			},
+			"information": {
+				"dateOfShow": "Friday 11 March 2016",
+				"supportAct": "The Sleeping Souls, Northcote, and Mo Kenney",
+				"venue": "Danforth Music Hall",
+				"venueId": 30065,
+				"venueImg2": true,
+				"city": "Toronto, ON",
+				"metroId": 27396,
+				"country": "Canada",
+				"distanceSoFar": 38536
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.3569205,
+					43.6762574
+				]
+			}
+		},
+		{
+			"type": "Feature",
+				"properties": {
+		    	"title": "Bronson Centre Theatre",
+                "marker-color": "#ed184a",
+                "marker-symbol": "marker-15"
+			},
+			"information": {
+				"dateOfShow": "Saturday 12 March 2016",
+				"supportAct": "The Sleeping Souls, Northcote, and Mo Kenney",
+				"venue": "Bronson Centre Theatre",
+				"venueId": 1555148,
+				"city": "Ottawa, ON",
+				"metroId": 27381,
+				"country": "Canada",
+				"distanceSoFar": 38956
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.70634389999998,
+					45.4135609
+				]
+			}
+		},
+		{
+			"type": "Feature",
+				"properties": {
+		    	"title": "Corona Theatre / Théâtre Corona",
+                "marker-color": "#ed184a",
+                "marker-symbol": "marker-15"
+			},
+			"information": {
+				"dateOfShow": "Sunday 13 March 2016",
+				"supportAct": "Mo Kenney",
+				"venue": "Corona Theatre / Théâtre Corona",
+				"venueId": 281966,
+				"city": "Montreal, QC",
+				"metroId": 27377,
+				"country": "Canada",
+				"distanceSoFar": 39156
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-73.57512489999999,
+					45.4828921
+				]
+			}
+		},
+		{
+			"type": "Feature",
+				"properties": {
+		    	"title": "College Street Music Hall",
+                "marker-color": "#ed184a",
+                "marker-symbol": "marker-15"
+			},
+			"information": {
+				"dateOfShow": "Monday 14 March 2016",
+				"supportAct": "Northcote and Mo Kenney",
+				"venue": "College Street Music Hall",
+				"venueId": 2897458,
+				"city": "New Haven, CT",
+				"metroId": 24592,
+				"country": "US",
+				"distanceSoFar": 39756
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-72.92962399999999,
+					41.306707
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+		    	"title": "New York Society for Ethical Culture",
+                "marker-color": "#ed184a",
+                "marker-symbol": "marker-15"
+			},
+			"information": {
+				"dateOfShow": "Tuesday 15 March 2016",
+				"venue": "New York Society for Ethical Culture",
+				"venueId": 37242,
+				"city": "New York, NY",
+				"metroId": 7644,
+				"country": "US",
+				"distanceSoFar": 39886
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-73.98003499999999,
+					40.7711314
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+		    	"title": "High Dive",
+                "marker-color": "#ed184a",
+                "marker-symbol": "marker-15"
+			},
+			"information": {
+				"dateOfShow": "Thursday 17 March 2016",
+				"supportAct": "Skinny Lister, Beans on Toast, and Will Varley",
+				"venue": "High Dive",
+				"venueId": 1940804,
+				"city": "Gainesville, FL",
+				"metroId": 24578,
+				"country": "US",
+				"distanceSoFar": 41508
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-82.32698719999996,
+					29.650567
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+		    	"title": "Flogging Molly's Salty Dog Cruise 2016",
+                "marker-color": "#ed184a",
+                "marker-symbol": "marker-15"
+			},
+			"information": {
+				"dateOfShow": "Friday 18 March 2016 – Monday 21 March 2016",
+				"supportAct": "Flogging Molly, Rancid, Fishbone, Authority Zero, Street Dogs, The Slackers, and The Tossers",
+				"festival": true,
+				"venue": "Flogging Molly's Salty Dog Cruise 2016",
+				"venueImg": "//images.sk-static.com/images/media/profile_images/artists/356538/huge_avatar",
+				"city": "Miami, FL",
+				"metroId": 9776,
+				"country": "US",
+				"distanceSoFar": 42048
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.19179020000001,
+					25.7616798
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+		    	"title": "Bikini",
+                "marker-color": "#ed184a",
+                "marker-symbol": "marker-15"
+			},
+			"information": {
+				"dateOfShow": "Wednesday 30 March 2016",
+				"venue": "Bikini",
+				"venueId": 36918,
+				"city": "Barcelona",
+				"metroId": 28714,
+				"country": "Spain",
+				"distanceSoFar": 47010
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					2.135087399999975,
+					41.389627
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+		    	"title": "Loco Club",
+                "marker-color": "#ed184a",
+                "marker-symbol": "marker-15"
+			},
+			"information": {
+				"dateOfShow": "Thursday 31 March 2016",
+				"venue": "Loco Club",
+				"venueId": 54794,
+				"venueImg": true,
+				"city": "Valencia",
+				"metroId": 28802,
+				"country": "Spain",
+				"distanceSoFar": 49588
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-0.38701639999999315,
+					39.47121690000001
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+		    	"title": "Escenario Santander",
+                "marker-color": "#ed184a",
+                "marker-symbol": "marker-15"
+			},
+			"information": {
+				"dateOfShow": "Friday 01 April 2016",
+				"venue": "Escenario Santander",
+				"venueId": 1464153,
+				"city": "Santander",
+				"metroId": 28790,
+				"country": "Spain",
+				"distanceSoFar": 50298
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-3.80658399999993,
+					43.473333
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+		    	"title": "Teatro Albeniz",
+                "marker-color": "#ed184a",
+                "marker-symbol": "marker-15"
+			},
+			"information": {
+				"dateOfShow": "Saturday 02 April 2016",
+				"venue": "Teatro Albeniz",
+				"venueId": 455841,
+				"city": "Gijón",
+				"metroId": 104921,
+				"country": "Spain",
+				"distanceSoFar": 50475
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-5.660926300000028,
+					43.5401497
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+		    	"title": "Sala Arena",
+                "marker-color": "#ed184a",
+                "marker-symbol": "marker-15"
+			},
+			"information": {
+				"dateOfShow": "Monday 04 April 2016",
+				"venue": "Sala Arena",
+				"venueId": 46374,
+				"venueImg2": true,
+				"city": "Madrid",
+				"metroId": 28755,
+				"country": "Spain",
+				"distanceSoFar": 50940
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-3.7125499999999647,
+					40.42496269999999
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+		    	"title": "Circolo Magnolia",
+                "marker-color": "#ed184a",
+                "marker-symbol": "marker-15"
+			},
+			"information": {
+				"dateOfShow": "Thursday 07 April 2016",
+				"venue": "Circolo Magnolia",
+				"venueId": 86233,
+				"city": "Segrate",
+				"metroId": 30338,
+				"country": "Italy",
+				"distanceSoFar": 52529
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					9.285693700000024,
+					45.4641197
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+		    	"title": "New Age Club",
+                "marker-color": "#ed184a",
+                "marker-symbol": "marker-15"
+			},
+			"information": {
+				"dateOfShow": "Friday 08 April 2016",
+				"supportAct": "The Sleeping Souls",
+				"venue": "New Age Club",
+				"venueId": 29619,
+				"city": "Roncade",
+				"metroId": 30387,
+				"country": "Italy",
+				"distanceSoFar": 52809
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					12.383586000000037,
+					45.63934099999999
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+		    	"title": "Kino Šiška",
+                "marker-color": "#ed184a",
+                "marker-symbol": "marker-15"
+			},
+			"information": {
+				"dateOfShow": "Saturday 09 April 2016",
+				"venue": "Kino Šiška",
+				"venueId": 470056,
+				"venueImg": true,
+				"city": "Ljubljana",
+				"metroId": 32259,
+				"country": "Slovenia",
+				"distanceSoFar": 53025
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					14.489484800000014,
+					46.0698334
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+		    	"title": "Majestic Music Club",
+                "marker-color": "#ed184a",
+                "marker-symbol": "marker-15"
+			},
+			"information": {
+				"dateOfShow": "Sunday 10 April 2016",
+				"venue": "Majestic Music Club",
+				"venueId": 789086,
+				"city": "Bratislava",
+				"metroId": 32262,
+				"country": "Slovakia",
+				"distanceSoFar": 53476
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					17.113588899999968,
+					48.156879
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+		    	"title": "Magacin Depo",
+                "marker-color": "#ed184a",
+                "marker-symbol": "marker-15"
+			},
+			"information": {
+				"dateOfShow": "Tuesday 12 April 2016",
+				"venue": "Magacin Depo",
+				"venueId": 2104509,
+				"city": "Belgrade",
+				"metroId": 31876,
+				"country": "Serbia",
+				"distanceSoFar": 54050
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					20.451129400000013,
+					44.81360340000001
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+		    	"title": "A38 Ship / A38 Hajó",
+                "marker-color": "#ed184a",
+                "marker-symbol": "marker-15"
+			},
+			"information": {
+				"dateOfShow": "Wednesday 13 April 2016",
+				"venue": "A38 Ship / A38 Hajó",
+				"venueId": 69972,
+				"city": "Budapest",
+				"metroId": 29047,
+				"country": "Hungary",
+				"distanceSoFar": 54450
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					19.061589300000037,
+					47.4778561
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+		    	"title": "Lucerna Music Bar",
+                "marker-color": "#ed184a",
+                "marker-symbol": "marker-15"
+			},
+			"information": {
+				"dateOfShow": "Thursday 14 April 2016",
+				"supportAct": "The Sleeping Souls",
+				"venue": "Lucerna Music Bar",
+				"venueId": 29982,
+				"city": "Prague",
+				"metroId": 28425,
+				"country": "Czech Republic",
+				"distanceSoFar": 54976
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					14.425413599999956,
+					50.081353
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+		    	"title": "Wrocław",
+                "marker-color": "#ed184a",
+                "marker-symbol": "marker-15"
+			},
+			"information": {
+				"dateOfShow": "Friday 15 April 2016",
+				"city": "Wrocław",
+				"metroId": 53772,
+				"country": "Poland",
+				"distanceSoFar": 55313
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					17.03853760000004,
+					51.1078852
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+		    	"title": "Proxima",
+                "marker-color": "#ed184a",
+                "marker-symbol": "marker-15"
+			},
+			"information": {
+				"dateOfShow": "Saturday 16 April 2016",
+				"venue": "Proxima",
+				"venueId": 59825,
+				"city": "Warsaw",
+				"metroId": 31787,
+				"country": "Poland",
+				"distanceSoFar": 55673
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					20.98701989999995,
+					52.2124986
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+		    	"title": "Atlas",
+                "marker-color": "#ed184a",
+                "marker-symbol": "marker-15"
+			},
+			"information": {
+				"dateOfShow": "Monday 18 April 2016",
+				"venue": "Atlas",
+				"venueId": 1080626,
+				"city": "Aarhus",
+				"metroId": 35205,
+				"country": "Denmark",
+				"distanceSoFar": 56849
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					10.189872899999955,
+					56.1284928
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+		    	"title": "Vega Musikkens Hus - Lille Vega",
+                "marker-color": "#ed184a",
+                "marker-symbol": "marker-15"
+			},
+			"information": {
+				"dateOfShow": "Tuesday 19 April 2016",
+				"venue": "Vega Musikkens Hus - Lille Vega",
+				"venueId": 2740208,
+				"venueImg2": true,
+				"city": "Copenhagen",
+				"metroId": 28617,
+				"country": "Denmark",
+				"distanceSoFar": 57039
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					12.54404420000003,
+					55.6681075
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+		    	"title": "USF Verftet",
+                "marker-color": "#ed184a",
+                "marker-symbol": "marker-15"
+			},
+			"information": {
+				"dateOfShow": "Thursday 21 April 2016",
+				"venue": "USF Verftet",
+				"venueId": 32614,
+				"city": "Bergen",
+				"metroId": 31419,
+				"country": "Norway",
+				"distanceSoFar": 58106
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					5.308875700000044,
+					60.3956174
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+		    	"title": "Rockefeller",
+                "marker-color": "#ed184a",
+                "marker-symbol": "marker-15"
+			},
+			"information": {
+				"dateOfShow": "Friday 22 April 2016",
+				"venue": "Rockefeller",
+				"venueId": 30968,
+				"venueImg2": true,
+				"city": "Oslo",
+				"metroId": 31422,
+				"country": "Norway",
+				"distanceSoFar": 58581
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					10.750757799999974,
+					59.9161677
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+		    	"title": "Tavastia Klubi",
+                "marker-color": "#ed184a",
+                "marker-symbol": "marker-15"
+			},
+			"information": {
+				"dateOfShow": "Saturday 23 April 2016",
+				"venue": "Tavastia Klubi",
+				"venueId": 34304,
+				"venueImg2": true,
+				"city": "Helsinki",
+				"metroId": 28825,
+				"country": "Finland",
+				"distanceSoFar": 59581
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					24.933222399999977,
+					60.16853210000001
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+		    	"title": "Debaser Medis",
+                "marker-color": "#ed184a",
+                "marker-symbol": "marker-15"
+			},
+			"information": {
+				"dateOfShow": "Sunday 24 April 2016",
+				"venue": "Debaser Medis",
+				"venueId": 509201,
+				"venueImg2": true,
+				"city": "Stockholm",
+				"metroId": 32252,
+				"country": "Sweden",
+				"distanceSoFar": 60081
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					18.0312189,
+					59.31489089999999
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+		    	"title": "Pustervik",
+                "marker-color": "#ed184a",
+                "marker-symbol": "marker-15"
+			},
+			"information": {
+				"dateOfShow": "Monday 25 April 2016",
+				"venue": "Pustervik",
+				"venueId": 53943,
+				"venueImg2": true,
+				"city": "Gothenburg",
+				"metroId": 34443,
+				"country": "Sweden",
+				"distanceSoFar": 60548
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					11.955916500000058,
+					57.70078290000001
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+		    	"title": "1000 Fryd",
+                "marker-color": "#ed184a",
+                "marker-symbol": "marker-15"
+			},
+			"information": {
+				"dateOfShow": "Wednesday 27 April 2016",
+				"venue": "1000 Fryd",
+				"venueId": 91100,
+				"city": "Aalborg",
+				"metroId": 28615,
+				"country": "Denmark",
+				"distanceSoFar": 60703
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					9.917392000000063,
+					57.05018199999999
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+		    	"title": "Molotow",
+                "marker-color": "#ed184a",
+                "marker-symbol": "marker-15"
+			},
+			"information": {
+				"dateOfShow": "Thursday 28 April 2016",
+				"venue": "Molotow",
+				"venueId": 53534,
+				"city": "Hamburg",
+				"metroId": 28498,
+				"country": "Germany",
+				"distanceSoFar": 61150
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					9.956522599999971,
+					53.55007699999999
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+		    	"title": "Groezrock 2016 - De Vlessenhoeve",
+                "marker-color": "#ed184a",
+                "marker-symbol": "marker-15"
+			},
+			"information": {
+				"dateOfShow": "Friday 29 April 2016 – Saturday 30 April 2016",
+				"supportAct": "Sum 41, Rancid, Frank Turner, blessthefall, Less Than Jake, Saosin, Four Year Strong, and Hatebreed",
+				"festival": true,
+				"venue": "Groezrock 2016 - De Vlessenhoeve",
+				"venueImg": "//images.sk-static.com/images/media/profile_images/events/25084124/huge_avatar",
+				"city": "Meerhout",
+				"metroId": 97156,
+				"country": "Belgium",
+				"distanceSoFar": 61673
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					5.077080000000024,
+					51.13218999999999
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+		    	"title": "Electric Brixton",
+                "marker-color": "#ed184a",
+                "marker-symbol": "marker-15"
+			},
+			"information": {
+				"dateOfShow": "Friday 13 May 2016",
+				"supportAct": "Skinny Lister and The Wholls",
+				"venue": "Electric Brixton",
+				"venueId": 9022,
+				"venueImg": true,
+				"city": "London",
+				"metroId": 24426,
+				"country": "UK",
+				"distanceSoFar": 62123
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-0.11400860000003377,
+					51.4622233
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+		    	"title": "The Bomb Factory",
+                "marker-color": "#ed184a",
+                "marker-symbol": "marker-15"
+			},
+			"information": {
+				"dateOfShow": "Saturday 21 May 2016",
+				"venue": "The Bomb Factory",
+				"venueId": 45544,
+				"venueImg": true,
+				"city": "Dallas, TX",
+				"metroId": 35129,
+				"country": "US",
+				"distanceSoFar": 69760
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-96.78413639999997,
+					32.7821473
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+		    	"title": "Clear Channel Metroplex Event Center",
+                "marker-color": "#ed184a",
+                "marker-symbol": "marker-15"
+			},
+			"information": {
+				"dateOfShow": "Sunday 22 May 2016",
+				"venue": "Clear Channel Metroplex Event Center",
+				"venueId": 14195,
+				"city": "Little Rock, AR",
+				"metroId": 17060,
+				"country": "US",
+				"distanceSoFar": 70275
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-92.28959479999997,
+					34.7464809
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+		    	"title": "The Blue Note",
+                "marker-color": "#ed184a",
+                "marker-symbol": "marker-15"
+			},
+			"information": {
+				"dateOfShow": "Monday 23 May 2016",
+				"venue": "The Blue Note",
+				"venueId": 881,
+				"city": "Columbia, MO",
+				"metroId": 6853,
+				"country": "US",
+				"distanceSoFar": 70879
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-92.32768899999996,
+					38.952161
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+		    	"title": "Wooly's",
+                "marker-color": "#ed184a",
+                "marker-symbol": "marker-15"
+			},
+			"information": {
+				"dateOfShow": "Tuesday 24 May 2016",
+				"supportAct": "Two Cow Garage and Homeless Gospel Choir",
+				"venue": "Wooly's",
+				"venueId": 1649088,
+				"veneuimg": true,
+				"city": "Des Moines, IA",
+				"metroId": 12444,
+				"country": "US",
+				"distanceSoFar": 71266
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-93.60910639999997,
+					41.6005448	
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+		    	"title": "Intersection",
+                "marker-color": "#ed184a",
+                "marker-symbol": "marker-15"
+			},
+			"information": {
+				"dateOfShow": "Thursday 26 May 2016",
+				"venue": "Intersection",
+				"venueId": 32963,
+				"city": "Grand Rapids, MI",
+				"metroId": 5035,
+				"country": "US",
+				"distanceSoFar": 72070
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-85.67408069999999,
+					42.9599127
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+		    	"title": "Newport Music Hall",
+                "marker-color": "#ed184a",
+                "marker-symbol": "marker-15"
+			},
+			"information": {
+				"dateOfShow": "Friday 27 May 2016",
+				"supportAct": "Two Cow Garage and Homeless Gospel Choir",
+				"venue": "Newport Music Hall",
+				"venueId": 884,
+				"city": "Columbus, OH",
+				"metroId": 9480,
+				"country": "US",
+				"distanceSoFar": 72595
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-83.00707339999997,
+					39.99744020000001
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+		    	"title": "Mercury Ballroom",
+                "marker-color": "#ed184a",
+                "marker-symbol": "marker-15"
+			},
+			"information": {
+				"dateOfShow": "Saturday 28 May 2016",
+				"supportAct": "Two Cow Garage, Homeless Gospel Choir",
+				"venue": "Mercury Ballroom",
+				"venueId": 2496754,
+				"city": "Louisville, KY",
+				"metroId": 11887,
+				"country": "US",
+				"distanceSoFar": 72935
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-85.75781640000002,
+					38.2484695
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+		    	"title": "The International Knoxville",
+                "marker-color": "#ed184a",
+                "marker-symbol": "marker-15"
+			},
+			"information": {
+				"dateOfShow": "Sunday 29 May 2016",
+				"venue": "The International Knoxville",
+				"venueId": 2728348,
+				"city": "Knoxville, TN",
+				"metroId": 8503,
+				"country": "US",
+				"distanceSoFar": 73335
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-83.92944460000001,
+					35.9647269
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+		    	"title": "New Daisy Theatre",
+                "marker-color": "#ed184a",
+                "marker-symbol": "marker-15"
+			},
+			"information": {
+				"dateOfShow": "Tuesday 31 May 2016",
+				"supportAct": "Two Cow Garage and Homeless Gospel Choir",
+				"venue": "New Daisy Theatre",
+				"venueId": 11082,
+				"city": "Memphis, TN",
+				"metroId": 22600,
+				"country": "US",
+				"distanceSoFar": 73965
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-90.05008750000002,
+					35.13952829999999
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+		    	"title": "Diamond Ballroom",
+                "marker-color": "#ed184a",
+                "marker-symbol": "marker-15"
+			},
+			"information": {
+				"dateOfShow": "Wednesday 01 June 2016",
+				"supportAct": "Gogol Bordello",
+				"venue": "Diamond Ballroom",
+				"venueId": 9409,
+				"venueImg": true,
+				"city": "Oklahoma City, OK",
+				"metroId": 5627,
+				"country": "US",
+				"distanceSoFar": 74715
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-97.4784568,
+					35.3862678
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+		    	"title": "Aztec Theatre",
+                "marker-color": "#ed184a",
+                "marker-symbol": "marker-15"
+			},
+			"information": {
+				"dateOfShow": "Friday 03 June 2016",
+				"supportAct": "Gogol Bordello",
+				"venue": "Aztec Theatre",
+				"venueId": 1625873,
+				"venueImg": true,
+				"city": "San Antonio, TX",
+				"metroId": 7554,
+				"country": "US",
+				"distanceSoFar": 75457
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-98.49109499999997,
+					29.42466799999999
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+		    	"title": "Free Press Summer Fest 2016 - NRG Park",
+                "marker-color": "#ed184a",
+                "marker-symbol": "marker-15"
+			},
+			"information": {
+				"dateOfShow": "Saturday 04 June 2016 – Sunday 05 June 2016",
+				"supportAct": "Deadmau5, Modest Mouse, Mac Miller, The National, Edward Sharpe & The Magnetic Zeros, The Chainsmokers, Young the Giant, and Matt and Kim",
+				"festival": true,
+				"venue": "Free Press Summer Fest 2016 - NRG Park",
+				"venueImg": "//images.sk-static.com/images/media/profile_images/events/26220534/huge_avatar",
+				"city": "Houston, TX",
+				"metroId": 15073,
+				"country": "US",
+				"distanceSoFar": 75781
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-95.40774699999997,
+					29.6864174
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+		    	"title": "Joy Theater",
+                "marker-color": "#ed184a",
+                "marker-symbol": "marker-15"
+			},
+			"information": {
+				"dateOfShow": "Sunday 05 June 2016",
+				"supportAct": "Gogol Bordello",
+				"venue": "Joy Theater",
+				"venueId": 1587063,
+				"city": "New Orleans, LA",
+				"metroId": 11772,
+				"country": "US",
+				"distanceSoFar": 76354
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-90.07386869999999,
+					29.9561255
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+		    	"title": "Soul Kitchen Music Hall",
+                "marker-color": "#ed184a",
+                "marker-symbol": "marker-15"
+			},
+			"information": {
+				"dateOfShow": "Monday 06 June 2016",
+				"supportAct": "Gogol Bordello",
+				"venue": "Soul Kitchen Music Hall",
+				"venueId": 1222726,
+				"city": "Mobile, AL",
+				"metroId": 8910,
+				"country": "US",
+				"distanceSoFar": 76584
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-88.04336109999997,
+					30.6910265
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+		    	"title": "Iron City",
+                "marker-color": "#ed184a",
+                "marker-symbol": "marker-15"
+			},
+			"information": {
+				"dateOfShow": "Tuesday 07 June 2016",
+				"supportAct": "Gogol Bordello",
+				"venue": "Iron City",
+				"venueId": 2131944,
+				"venueImg": true,
+				"city": "Birmingham, AL",
+				"metroId": 8474,
+				"country": "US",
+				"distanceSoFar": 77002
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-86.79791890000001,
+					33.50889900000001
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+		    	"title": "Jannus Live",
+                "marker-color": "#ed184a",
+                "marker-symbol": "marker-15"
+			},
+			"information": {
+				"dateOfShow": "Thursday 09 June 2016",
+				"supportAct": "Gogol Bordello",
+				"venue": "Jannus Live",
+				"venueId": 943,
+				"city": "St Petersburg, FL",
+				"metroId": 20410,
+				"country": "US",
+				"distanceSoFar": 78007
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-82.63601299999999,
+					27.77190599999999
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+		    	"title": "Revolution",
+                "marker-color": "#ed184a",
+                "marker-symbol": "marker-15"
+			},
+			"information": {
+				"dateOfShow": "Friday 10 June 2016",
+				"supportAct": "Gogol Bordello",
+				"venue": "Revolution",
+				"venueId": 408111,
+				"venueImg2": true,
+				"city": "Fort Lauderdale, FL",
+				"metroId": 19511,
+				"country": "US",
+				"distanceSoFar": 78409
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.14632360000002,
+					26.12119
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+		    	"title": "The Beacham",
+                "marker-color": "#ed184a",
+                "marker-symbol": "marker-15"
+			},
+			"information": {
+				"dateOfShow": "Saturday 11 June 2016",
+				"supportAct": "Gogol Bordello",
+				"venue": "The Beacham",
+				"venueId": 43964,
+				"city": "Orlando, FL",
+				"metroId": 3733,
+				"country": "US",
+				"distanceSoFar": 78764
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-81.37936000000002,
+					28.5429979
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+		    	"title": "The Tabernacle",
+                "marker-color": "#ed184a",
+                "marker-symbol": "marker-15"
+			},
+			"information": {
+				"dateOfShow": "Sunday 12 June 2016",
+				"supportAct": "Gogol Bordello",
+				"venue": "The Tabernacle",
+				"venueId": 669,
+				"venueImg2": true,
+				"city": "Atlanta, GA",
+				"metroId": 4120,
+				"country": "US",
+				"distanceSoFar": 79474
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-84.39144870000001,
+					33.7586647
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+		    	"title": "Taft Theatre",
+                "marker-color": "#ed184a",
+                "marker-symbol": "marker-15"
+			},
+			"information": {
+				"dateOfShow": "Tuesday 14 June 2016",
+				"supportAct": "Jason Isbell",
+				"venue": "Taft Theatre",
+				"venueId": 951,
+				"city": "Cincinnati, OH",
+				"metroId": 22040,
+				"country": "US",
+				"distanceSoFar": 80214
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-84.50767969999998,
+					39.1015974
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+		    	"title": "Taft Theatre",
+                "marker-color": "#ed184a",
+                "marker-symbol": "marker-15"
+			},
+			"information": {
+				"dateOfShow": "Wednesday 15 June 2016",
+				"supportAct": "Jason Isbell",
+				"venue": "Taft Theatre",
+				"venueId": 951,
+				"city": "Cincinnati, OH",
+				"metroId": 22040,
+				"country": "US",
+				"distanceSoFar": 80214
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-84.50767969999998,
+					39.1015974
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+		    	"title": "Canalside",
+                "marker-color": "#ed184a",
+                "marker-symbol": "marker-15"
+			},
+			"information": {
+				"dateOfShow": "Thursday 16 June 2016",
+				"supportAct": "July Talk",
+				"venue": "Canalside",
+				"venueId": 2254449,
+				"city": "Buffalo, NY",
+				"metroId": 22996,
+				"country": "US",
+				"distanceSoFar": 80914
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-78.87935110000001,
+					42.8769032
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+		    	"title": "Festival Pier at Penn's Landing",
+                "marker-color": "#ed184a",
+                "marker-symbol": "marker-15"
+			},
+			"information": {
+				"dateOfShow": "Friday 17 June 2016",
+				"supportAct": "Jason Isbell and Chris Stapleton",
+				"venue": "Festival Pier at Penn's Landing",
+				"venueId": 864476,
+				"city": "Philadelphia, PA",
+				"metroId": 5202,
+				"country": "US",
+				"distanceSoFar": 81525
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.13754069999999,
+					39.9585279
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+		    	"title": "Merriweather Post Pavilion",
+                "marker-color": "#ed184a",
+                "marker-symbol": "marker-15"
+			},
+			"information": {
+				"dateOfShow": "Saturday 18 June 2016",
+				"supportAct": "Chris Stapleton, Jason Isbell, and The Sleeping Souls",
+				"venue": "Merriweather Post Pavilion",
+				"venueId": 93446,
+				"venueImg2": true,
+				"city": "Columbia, MD",
+				"metroId": 4125,
+				"country": "US",
+				"distanceSoFar": 81725
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-76.86181599999998,
+					39.209425
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+		    	"title": "Bank of New Hampshire Pavilion",
+                "marker-color": "#ed184a",
+                "marker-symbol": "marker-15"
+			},
+			"information": {
+				"dateOfShow": "Sunday 19 June 2016",
+				"supportAct": "Jason Isbell",
+				"venue": "Bank of New Hampshire Pavilion",
+				"venueId": 2145219,
+				"venueImg2": true,
+				"city": "Gilford, NH",
+				"metroId": 24591,
+				"country": "US",
+				"distanceSoFar": 82536
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-71.41295100000002,
+					43.58012499999999
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+		    	"title": "Chrysler Hall",
+                "marker-color": "#ed184a",
+                "marker-symbol": "marker-15"
+			},
+			"information": {
+				"dateOfShow": "Wednesday 22 June 2016",
+				"supportAct": "Jason Isbell",
+				"venue": "Chrysler Hall",
+				"venueId": 1410,
+				"city": "Norfolk, VA",
+				"metroId": 19653,
+				"country": "US",
+				"distanceSoFar": 83598
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-76.28593000000001,
+					36.8519906
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+		    	"title": "Brückenforum Bonn",
+                "marker-color": "#ed184a",
+                "marker-symbol": "marker-15"
+			},
+			"information": {
+				"dateOfShow": "Wednesday 29 June 2016",
+				"venue": "Brückenforum Bonn",
+				"venueId": 3102644,
+				"city": "Bonn",
+				"metroId": 28447,
+				"country": "Germany",
+				"distanceSoFar": 90098
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					7.1152839000000085,
+					50.73851749999999
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+		    	"title": "Olympiapark München",
+                "marker-color": "#ed184a",
+                "marker-symbol": "marker-15"
+			},
+			"information": {
+				"dateOfShow": "Thursday 30 June 2016",
+				"venue": "Olympiapark München",
+				"venueId": 2846333,
+				"city": "Munich",
+				"metroId": 28549,
+				"country": "Germany",
+				"distanceSoFar": 90650
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					11.557598900000016,
+					48.1770681
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+		    	"title": "Ulmer Zelt",
+                "marker-color": "#ed184a",
+                "marker-symbol": "marker-15"
+			},
+			"information": {
+				"dateOfShow": "Friday 01 July 2016",
+				"venue": "Ulmer Zelt",
+				"venueId": 59424,
+				"city": "Ulm",
+				"metroId": 28595,
+				"country": "Germany",
+				"distanceSoFar": 90785
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					10.015309699999989,
+					48.413319
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+		    	"title": "Vainstream 2016",
+                "marker-color": "#ed184a",
+                "marker-symbol": "marker-15"
+			},
+			"information": {
+				"dateOfShow": "Saturday 02 July 2016",
+				"supportAct": "Flogging Molly, Silverstein, Frank Turner, Anti-Flag, Stick To Your Guns, H2O, Being As An Ocean, and Municipal Waste",
+				"festival": true,
+				"venue": "Vainstream 2016",
+				"venueImg": "../../images/empty.jpg",
+				"city": "Münster",
+				"metroId": 28550,
+				"country": "Germany",
+				"distanceSoFar": 91342
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					7.626134699999966,
+					51.9606649
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+		    	"title": "Tivoli",
+                "marker-color": "#ed184a",
+                "marker-symbol": "marker-15"
+			},
+			"information": {
+				"dateOfShow": "Sunday 03 July 2016",
+				"city": "Tivoli",
+				"metroId": 30366,
+				"country": "Italy",
+				"distanceSoFar": 92854
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					12.802226099999984,
+					41.959817
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+		    	"title": "Two Thousand Trees 2016",
+                "marker-color": "#ed184a",
+                "marker-symbol": "marker-15"
+			},
+			"information": {
+				"dateOfShow": "Thursday 07 July 2016",
+				"festival": true,
+				"venue": "Two Thousand Trees 2016",
+				"venueImg": "../../images/empty.jpg",
+				"city": "Cheltenham",
+				"metroId": 24603,
+				"country": "UK",
+				"distanceSoFar": 94907
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-2.0782533000000285,
+					51.8993855
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+		    	"title": "Palm House, Sefton Park",
+	            "marker-color": "#ed184a",
+	            "marker-symbol": "marker-15"
+			},
+			"information": {
+				"dateOfShow": "Friday 08 July 2016",
+				"venue": "Palm House, Sefton Park",
+				"venueId": 970771,
+				"city": "Liverpool",
+				"metroId": 24526,
+				"country": "UK",
+				"distanceSoFar": 95140
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-2.935230600000068,
+					53.3813062
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+		    	"title": "T In The Park 2016",
+                "marker-color": "#ed184a",
+                "marker-symbol": "marker-15"
+			},
+			"information": {
+				"dateOfShow": "Friday 08 July 2016 – Sunday 10 July 2016",
+				"supportAct": "Red Hot Chili Peppers, Calvin Harris, Bastille, Major Lazer, Disclosure, The 1975, Kaiser Chiefs, and James Bay",
+				"festival": true,
+				"venue": "T In The Park 2016 - Strathallan Castle",
+				"venueImg": "//images.sk-static.com/images/media/profile_images/events/25354094/huge_avatar",
+				"city": "Auchterarder",
+				"metroId": 99671,
+				"country": "UK",
+				"distanceSoFar": 95563
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-3.749423200000024,
+					56.31950269999999
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+		    	"title": "Playhouse",
+                "marker-color": "#ed184a",
+                "marker-symbol": "marker-15"
+			},
+			"information": {
+				"dateOfShow": "Saturday 09 July 2016",
+				"venue": "Playhouse",
+				"venueId": 629246,
+				"city": "Whitley Bay",
+				"metroId": 24577,
+				"country": "UK",
+				"distanceSoFar": 95868
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-1.4512988999999834,
+					55.046389
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+		    	"title": "House of Vans",
+                "marker-color": "#ed184a",
+                "marker-symbol": "marker-15"
+			},
+			"information": {
+				"dateOfShow": "Wednesday 13 July 2016",
+				"venue": "House of Vans",
+				"venueId": 2765868,
+				"city": "London",
+				"metroId": 24426,
+				"country": "UK",
+				"distanceSoFar": 96350
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-0.11415310000006684,
+					51.50059009999999
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+		    	"title": "Gurtenfestival 2016",
+                "marker-color": "#ed184a",
+                "marker-symbol": "marker-15"
+			},
+			"information": {
+				"dateOfShow": "Thursday 14 July 2016 – Sunday 17 July 2016",
+				"supportAct": "Muse, Kygo, Rudimental, Frank Turner, Caravan Palace, Gentleman, Ky-mani Marley, and Royal Republic",
+				"festival": true,
+				"venue": "Gurtenfestival 2016",
+				"venueImg": "../../images/empty.jpg",
+				"city": "Bern",
+				"metroId": 27452,
+				"country": "Switzerland",
+				"distanceSoFar": 96993
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					7.447446799999966,
+					46.9479739
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+		    	"title": "Spazio BOSS",
+                "marker-color": "#ed184a",
+                "marker-symbol": "marker-15"
+			},
+			"information": {
+				"dateOfShow": "Friday 15 July 2016",
+				"venue": "Spazio BOSS",
+				"venueId": 2345544,
+				"city": "La Spezia",
+				"metroId": 30325,
+				"country": "Italy",
+				"distanceSoFar": 97571
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					9.823904999999968,
+					44.10305899999999
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+		    	"title": "Festival de Carcassonne 2016",
+                "marker-color": "#ed184a",
+                "marker-symbol": "marker-15"
+			},
+			"information": {
+				"dateOfShow": "Sunday 17 July 2016",
+				"supportAct": "Foals",
+				"festival": true,
+				"venue": "Festival de Carcassonne 2016",
+				"venueImg": "../../images/empty.jpg",
+				"city": "Carcassonne",
+				"metroId": 33951,
+				"country": "France",
+				"distanceSoFar": 98337
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					2.353662999999983,
+					43.212161
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+		    	"title": "Dresden Industriegelände",
+                "marker-color": "#ed184a",
+                "marker-symbol": "marker-15"
+			},
+			"information": {
+				"dateOfShow": "Tuesday 19 July 2016",
+				"venue": "Dresden Industriegelände",
+				"venueId": 3272959,
+				"city": "Dresden",
+				"metroId": 28467,
+				"country": "Germany",
+				"distanceSoFar": 99914
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					13.76277200000004,
+					51.087456
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+		    	"title": "Zitadelle Mainz",
+                "marker-color": "#ed184a",
+                "marker-symbol": "marker-15"
+			},
+			"information": {
+				"dateOfShow": "Wednesday 20 July 2016",
+				"venue": "Zitadelle Mainz",
+				"venueId": 48297,
+				"city": "Mainz",
+				"metroId": 28539,
+				"country": "Germany",
+				"distanceSoFar": 100402
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.274557800000025,
+					49.9930227
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+		    	"title": "Fono Klubs",
+                "marker-color": "#ed184a",
+                "marker-symbol": "marker-15"
+			},
+			"information": {
+				"dateOfShow": "Saturday 23 July 2016",
+				"venue": "Fono Klubs",
+				"venueId": 722196,
+				"city": "Cesis",
+				"metroId": 68876,
+				"country": "Latvia",
+				"distanceSoFar": 102247
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					25.26829859999998,
+					57.31056259999999
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+		    	"title": "Double Door",
+                "marker-color": "#ed184a",
+                "marker-symbol": "marker-15"
+			},
+			"information": {
+				"dateOfShow": "Thursday 28 July 2016",
+				"venue": "Double Door",
+				"venueId": 6540,
+				"venueImg2": true,
+				"city": "Chicago, IL",
+				"metroId": 9426,
+				"country": "US",
+				"distanceSoFar": 109591
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-87.67727029999998,
+					41.909812
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+		    	"title": "Lollapalooza 2016",
+                "marker-color": "#ed184a",
+                "marker-symbol": "marker-15"
+			},
+			"information": {
+				"dateOfShow": "Thursday 28 July 2016 – Sunday 31 July 2016",
+				"supportAct": "Red Hot Chili Peppers, Radiohead, Ellie Goulding, Lana Del Rey, J. Cole, Bastille, Two Door Cinema Club, and Major Lazer",
+				"festival": true,
+				"venue": "Lollapalooza 2016",
+				"venueImg": "//images.sk-static.com/images/media/profile_images/events/24556164/huge_avatar",
+				"city": "Grant Park, Chicago, IL",
+				"metroId": 9426,
+				"country": "US",
+				"distanceSoFar": 109593
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-87.61892290000003,
+					41.8827891
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+		    	"title": "Oregon Zoo",
+                "marker-color": "#ed184a",
+                "marker-symbol": "marker-15"
+			},
+			"information": {
+				"dateOfShow": "Sunday 31 July 2016",
+				"supportAct": "Flogging Molly and Chuck Ragan",
+				"venue": "Oregon Zoo",
+				"venueId": 17120,
+				"city": "Portland, OR",
+				"metroId": 12283,
+				"country": "US",
+				"distanceSoFar": 113009
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.71603019999998,
+					45.5103125
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+		    	"title": "The Showbox",
+                "marker-color": "#ed184a",
+                "marker-symbol": "marker-15"
+			},
+			"information": {
+				"dateOfShow": "Monday 01 August 2016",
+				"venue": "The Showbox",
+				"venueId": 5621,
+				"venueImg2": true,
+				"city": "Seattle, WA",
+				"metroId": 2846,
+				"country": "US",
+				"distanceSoFar": 113293
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.3393269,
+					47.6085565
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+		    	"title": "Fox Theater",
+                "marker-color": "#ed184a",
+                "marker-symbol": "marker-15"
+			},
+			"information": {
+				"dateOfShow": "Wednesday 03 August 2016",
+				"supportAct": "Flogging Molly and Chuck Ragan",
+				"venue": "Fox Theater",
+				"venueId": 953251,
+				"venueImg2": true,
+				"city": "Oakland, CA",
+				"metroId": 26330,
+				"country": "US",
+				"distanceSoFar": 114581
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.27006349999999,
+					37.8079974
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+		    	"title": "Vina Robles Amphitheatre",
+                "marker-color": "#ed184a",
+                "marker-symbol": "marker-15"
+			},
+			"information": {
+				"dateOfShow": "Thursday 04 August 2016",
+				"supportAct": "Flogging Molly and Chuck Ragan",
+				"venue": "Vina Robles Amphitheatre",
+				"venueId": 2185869,
+				"city": "Paso Robles, CA",
+				"metroId": 23682,
+				"country": "US",
+				"distanceSoFar": 114902
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-120.62952889999997,
+					35.64564089999999
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+		    	"title": "Morongo Ballroom - Morongo Casino",
+                "marker-color": "#ed184a",
+                "marker-symbol": "marker-15"
+			},
+			"information": {
+				"dateOfShow": "Friday 05 August 2016",
+				"supportAct": "Flogging Molly",
+				"venue": "Morongo Ballroom - Morongo Casino",
+				"venueId": 1046986,
+				"city": "Cabazon, CA",
+				"metroId": 17835,
+				"country": "US",
+				"distanceSoFar": 115384
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-116.800318,
+					33.9215445
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+		    	"title": "Cal Coast Credit Union Open Air Theatre",
+                "marker-color": "#ed184a",
+                "marker-symbol": "marker-15"
+			},
+			"information": {
+				"dateOfShow": "Saturday 06 August 2016",
+				"supportAct": "Flogging Molly and Chuck Ragan",
+				"venue": "Cal Coast Credit Union Open Air Theatre",
+				"venueId": 36253,
+				"city": "San Diego, CA",
+				"metroId": 11086,
+				"country": "US",
+				"distanceSoFar": 115569
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-117.07120559999998,
+					32.7745143
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+		    	"title": "Red Rocks Amphitheatre",
+                "marker-color": "#ed184a",
+                "marker-symbol": "marker-15"
+			},
+			"information": {
+				"dateOfShow": "Monday 08 August 2016",
+				"supportAct": "Flogging Molly and Chuck Ragan",
+				"venue": "Red Rocks Amphitheatre",
+				"venueId": 591,
+				"venueImg2": true,
+				"city": "Morrison, CO",
+				"metroId": 6404,
+				"country": "US",
+				"distanceSoFar": 117286
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-105.20571110000003,
+					39.6654245
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+		    	"title": "Sumtur Amphitheater",
+                "marker-color": "#ed184a",
+                "marker-symbol": "marker-15"
+			},
+			"information": {
+				"dateOfShow": "Tuesday 09 August 2016",
+				"supportAct": "Flogging Molly and Chuck Ragan",
+				"venue": "Sumtur Amphitheater",
+				"venueId": 859946,
+				"city": "Papillion, NE",
+				"metroId": 20324,
+				"country": "US",
+				"distanceSoFar": 118156
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-96.07956860000002,
+					41.1378154
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+		    	"title": "Cabooze Plaza",
+                "marker-color": "#ed184a",
+                "marker-symbol": "marker-15"
+			},
+			"information": {
+				"dateOfShow": "Wednesday 10 August 2016",
+				"supportAct": "Flogging Molly and Chuck Ragan",
+				"venue": "Cabooze Plaza",
+				"venueId": 1333761,
+				"city": "Minneapolis, MN",
+				"metroId": 35130,
+				"country": "US",
+				"distanceSoFar": 118785
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-93.24681429999998,
+					44.96339469999999
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+		    	"title": "Carl Black Chevy Woods Amphitheater",
+                "marker-color": "#ed184a",
+                "marker-symbol": "marker-15"
+			},
+			"information": {
+				"dateOfShow": "Friday 12 August 2016",
+				"supportAct": "Flogging Molly and Chuck Ragan",
+				"venue": "Carl Black Chevy Woods Amphitheater",
+				"venueId": 2894288,
+				"city": "Nashville, TN",
+				"metroId": 11104,
+				"country": "US",
+				"distanceSoFar": 120207
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-86.8294821,
+					36.2572239
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+		    	"title": "Michigan Lottery Amphitheatre at Freedom Hill",
+                "marker-color": "#ed184a",
+                "marker-symbol": "marker-15"
+			},
+			"information": {
+				"dateOfShow": "Saturday 13 August 2016",
+				"supportAct": "Flogging Molly and Chuck Ragan",
+				"venue": "Michigan Lottery Amphitheatre at Freedom Hill",
+				"venueId": 680,
+				"venueImg2": true,
+				"city": "Sterling Heights, MI",
+				"metroId": 18073,
+				"country": "US",
+				"distanceSoFar": 121100
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-82.9761972,
+					42.5641119
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+		    	"title": "Jacob's Pavilion",
+                "marker-color": "#ed184a",
+                "marker-symbol": "marker-15"
+			},
+			"information": {
+				"dateOfShow": "Sunday 14 August 2016",
+				"supportAct": "Flogging Molly and Chuck Ragan",
+				"venue": "Jacob's Pavilion",
+				"venueId": 2303464,
+				"city": "Cleveland, OH",
+				"metroId": 14700,
+				"country": "US",
+				"distanceSoFar": 121421
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-81.7029205,
+					41.4963298
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+		    	"title": "Maine State Pier",
+                "marker-color": "#ed184a",
+                "marker-symbol": "marker-15"
+			},
+			"information": {
+				"dateOfShow": "Tuesday 16 August 2016",
+				"supportAct": "Flogging Molly and Chuck Ragan",
+				"venue": "Maine State Pier",
+				"venueId": 18506,
+				"city": "Portland, ME",
+				"metroId": 24590,
+				"country": "US",
+				"distanceSoFar": 122611
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-70.24880539999998,
+					43.6577163
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+		    	"title": "Toyota Presents the Oakdale Theatre",
+                "marker-color": "#ed184a",
+                "marker-symbol": "marker-15"
+			},
+			"information": {
+				"dateOfShow": "Thursday 18 August 2016",
+				"supportAct": "Flogging Molly and Chuck Ragan",
+				"venue": "Toyota Presents the Oakdale Theatre",
+				"venueId": 764621,
+				"city": "Wallingford, CT",
+				"metroId": 24592,
+				"country": "US",
+				"distanceSoFar": 122973
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-72.84529299999997,
+					41.449855
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+		    	"title": "Ford Amphitheater at Coney Island Boardwalk",
+                "marker-color": "#ed184a",
+                "marker-symbol": "marker-15"
+			},
+			"information": {
+				"dateOfShow": "Friday 19 August 2016",
+				"supportAct": "Flogging Molly and Chuck Ragan",
+				"venue": "Ford Amphitheater at Coney Island Boardwalk",
+				"venueId": 3254064,
+				"city": "Brooklyn, NY",
+				"metroId": 7644,
+				"country": "US",
+				"distanceSoFar": 123117
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-73.98791499999999,
+					40.572896
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+		    	"title": "The Stone Pony",
+                "marker-color": "#ed184a",
+                "marker-symbol": "marker-15"
+			},
+			"information": {
+				"dateOfShow": "Saturday 20 August 2016",
+				"supportAct": "Flogging Molly and Chuck Ragan",
+				"venue": "The Stone Pony",
+				"venueId": 1187,
+				"city": "Asbury Park, NJ",
+				"metroId": 7644,
+				"country": "US",
+				"distanceSoFar": 123213
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.00058000000001,
+					40.21995
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+		    	"title": "Reading Festival 2016",
+                "marker-color": "#ed184a",
+                "marker-symbol": "marker-15"
+			},
+			"information": {
+				"dateOfShow": "Friday 26 August – Sunday 28 August, 2016",
+				"supportAct": "Red Hot Chili Peppers, Imagine Dragons, Fall Out Boy, A$AP Rocky, Two Door Cinema Club, Twenty One Pilots, Disclosure, and Cage the Elephant",
+				"festival": true,
+				"venue": "Reading Festival 2016",
+				"venueImg": "//images.sk-static.com/images/media/profile_images/events/25550784/huge_avatar",
+				"city": "Reading",
+				"metroId": 24480,
+				"country": "UK",
+				"distanceSoFar": 128760
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-0.9831781999999976,
+					51.464323
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+		    	"title": "Leeds Festival 2016",
+                "marker-color": "#ed184a",
+                "marker-symbol": "marker-15"
+			},
+			"information": {
+				"dateOfShow": "Friday 26 August 2016 – Sunday 28 August 2016",
+				"supportAct": "Red Hot Chili Peppers, Fall Out Boy, A$AP Rocky, Disclosure, Cage the Elephant, The Temper Trap, Foals, and The 1975",
+				"festival": true,
+				"venue": "Leeds Festival 2016",
+				"venueImg": "../../images/empty.jpg",
+				"city": "Wetherby",
+				"metroId": 77691,
+				"country": "UK",
+				"distanceSoFar": 129093
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-1.352935900000034,
+					53.89127870000001
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+		    	"title": "Musikfestwochen",
+                "marker-color": "#ed184a",
+                "marker-symbol": "marker-15"
+			},
+			"information": {
+				"dateOfShow": "Sunday 28 August 2016",
+				"supportAct": "Band of Skulls and Pennywise",
+				"venue": "Musikfestwochen",
+				"venueId": 505121,
+				"city": "Winterthur",
+				"metroId": 27456,
+				"country": "Switzerland",
+				"distanceSoFar": 130427
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.731158199999982,
+					47.4980311
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+		    	"title": "Conrad Sohm",
+                "marker-color": "#ed184a",
+                "marker-symbol": "marker-15"
+			},
+			"information": {
+				"dateOfShow": "Friday 02 September 2016",
+				"venue": "Conrad Sohm",
+				"venueId": 37720,
+				"city": "Dornbirn",
+				"metroId": 35688,
+				"country": "Austria",
+				"distanceSoFar": 130527
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					9.766505999999936,
+					47.3939075
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+		    	"title": "Amsterdamse Bos",
+                "marker-color": "#ed184a",
+                "marker-symbol": "marker-15"
+			},
+			"information": {
+				"dateOfShow": "Monday 05 September 2016",
+				"venue": "Amsterdamse Bos",
+				"venueId": 118324,
+				"city": "Amsterdam",
+				"metroId": 31366,
+				"country": "Netherlands",
+				"distanceSoFar": 131369
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.825833299999999,
+					52.3108333
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+		    	"title": "Reverb",
+                "marker-color": "#ed184a",
+                "marker-symbol": "marker-15"
+			},
+			"information": {
+				"dateOfShow": "Friday 23 September 2016",
+				"supportAct": "The Sleeping Souls, Dave Hause, and Rebuilder",
+				"venue": "Reverb",
+				"venueId": 1292506,
+				"venueImg": true,
+				"city": "Reading, PA",
+				"metroId": 24588,
+				"country": "US",
+				"distanceSoFar": 137377
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.91993809999997,
+					40.3562421
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+		    	"title": "Midpoint Music Festival 2016",
+                "marker-color": "#ed184a",
+                "marker-symbol": "marker-15"
+			},
+			"information": {
+				"dateOfShow": "Friday 23 September 2016 – Sunday 25 September 2016",
+				"supportAct": "Band of Horses, Future Islands, Tokyo Police Club, Frightened Rabbit, Nada Surf, Frank Turner, The Mountain Goats, and Josh Ritter",
+				"festival": true,
+				"venue": "Midpoint Music Festival 2016",
+				"venueImg": "../../images/empty.jpg",
+				"city": "Cincinnati, OH",
+				"metroId": 22040,
+				"country": "US",
+				"distanceSoFar": 138229
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-84.51201960000003,
+					39.1031182
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+		    	"title": "Express Live!",
+                "marker-color": "#ed184a",
+                "marker-symbol": "marker-15"
+			},
+			"information": {
+				"dateOfShow": "Saturday 24 September 2016",
+				"supportAct": "CHVRCHES, Jake Bugg, Bleached, and The Greeting Committee",
+				"venue": "Express Live!",
+				"venueId": 777,
+				"city": "Columbus, OH",
+				"metroId": 9480,
+				"country": "US",
+				"distanceSoFar": 138401
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-82.99879420000002,
+					39.9611755
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+		    	"title": "Accord",
+                "marker-color": "#ed184a",
+                "marker-symbol": "marker-15"
+			},
+			"information": {
+				"dateOfShow": "Tuesday 27 September 2016",
+				"venue": "Accord",
+				"venueId": 3169784,
+				"city": "Champaign, IL",
+				"metroId": 24703,
+				"country": "US",
+				"distanceSoFar": 138887
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-88.24088189999998,
+					40.1177536
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+		    	"title": "The Ready Room",
+                "marker-color": "#ed184a",
+                "marker-symbol": "marker-15"
+			},
+			"information": {
+				"dateOfShow": "Wednesday 28 September 2016",
+				"supportAct": "Arkells and Will Varley",
+				"venue": "The Ready Room",
+				"venueId": 2532334,
+				"city": "St Louis, MO",
+				"metroId": 6853,
+				"country": "US",
+				"distanceSoFar": 139187
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-90.25391909999996,
+					38.6276124
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+		    	"title": "Codfish Hollow Barnstormers",
+                "marker-color": "#ed184a",
+                "marker-symbol": "marker-15"
+			},
+			"information": {
+				"dateOfShow": "Thursday 29 September 2016",
+				"supportAct": "Will Varley and Arkells",
+				"venue": "Codfish Hollow Barnstormers",
+				"venueId": 3193629,
+				"city": "Maquoketa, IA",
+				"metroId": 12542,
+				"country": "US",
+				"distanceSoFar": 139682
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-90.56352370000002,
+					42.0781961
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+		    	"title": "The Rave/Eagles Club",
+                "marker-color": "#ed184a",
+                "marker-symbol": "marker-15"
+			},
+			"information": {
+				"dateOfShow": "Friday 30 September 2016",
+				"supportAct": "Arkells and Will Varley",
+				"venue": "The Rave/Eagles Club",
+				"venueId": 244673,
+				"venueImg2": true,
+				"city": "Milwaukee, WI",
+				"metroId": 15405,
+				"country": "US",
+				"distanceSoFar": 140008
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-87.94333139999998,
+					43.03824410000001
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+		    	"title": "The Back Room",
+                "marker-color": "#ed184a",
+                "marker-symbol": "marker-15"
+			},
+			"information": {
+				"dateOfShow": "Saturday 01 October 2016",
+				"venue": "The Back Room",
+				"venueId": 3155589,
+				"city": "Kalamazoo, MI",
+				"metroId": 5035,
+				"country": "US",
+				"distanceSoFar": 140389
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-85.5789292,
+					42.2949525
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+		    	"title": "Georgia Theatre",
+                "marker-color": "#ed184a",
+                "marker-symbol": "marker-15"
+			},
+			"information": {
+				"dateOfShow": "Thursday 27 October 2016",
+				"supportAct": "Arkells and Will Varley",
+				"venue": "Georgia Theatre",
+				"venueId": 10960,
+				"city": "Athens, GA",
+				"metroId": 4120,
+				"country": "US",
+				"distanceSoFar": 141650
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-83.3773984,
+					33.9583277
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+		    	"title": "Charlottesville, VA",
+                "marker-color": "#ed184a",
+                "marker-symbol": "marker-15"
+			},
+			"information": {
+				"dateOfShow": "Friday 28 October 2016",
+				"venue": "Jefferson Theater",
+				"venueId": 90817,
+				"city": "Charlottesville, VA",
+				"metroId": 22043,
+				"country": "US",
+				"distanceSoFar": 142395
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-78.481198,
+					38.0305757
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+		    	"title": "Mainstage Morgantown",
+                "marker-color": "#ed184a",
+                "marker-symbol": "marker-15"
+			},
+			"information": {
+				"dateOfShow": "Saturday 29 October 2016",
+				"venue": "Mainstage Morgantown",
+				"venueId": 3062479,
+				"city": "Morgantown, WV",
+				"metroId": 22443,
+				"country": "US",
+				"distanceSoFar": 142773
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.95514220000001,
+					39.6317711
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+		    	"title": "The NorVa",
+                "marker-color": "#ed184a",
+                "marker-symbol": "marker-15"
+			},
+			"information": {
+				"dateOfShow": "Sunday 30 October 2016",
+				"supportAct": "Arkells and Will Varley",
+				"venue": "The NorVa",
+				"venueId": 878,
+				"venueImg2": true,
+				"city": "Norfolk, VA",
+				"metroId": 19653,
+				"country": "US",
+				"distanceSoFar": 142416
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-76.28949999999998,
+					36.850189
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+		    	"title": "World Café Live at the Queen",
+                "marker-color": "#ed184a",
+                "marker-symbol": "marker-15"
+			},
+			"information": {
+				"dateOfShow": "Monday 31 October 2016",
+				"supportAct": "Arkells and Will Varley",
+				"venue": "World Café Live at the Queen",
+				"venueId": 141408,
+				"city": "Wilmington, DE",
+				"metroId": 24588,
+				"country": "US",
+				"distanceSoFar": 143818
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.55025339999997,
+					39.7411257
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+		    	"title": "Upstate Concert Hall",
+                "marker-color": "#ed184a",
+                "marker-symbol": "marker-15"
+			},
+			"information": {
+				"dateOfShow": "Wednesday 02 November 2016",
+				"venue": "Upstate Concert Hall",
+				"venueId": 1875963,
+				"city": "Clifton Park, NY",
+				"metroId": 4331,
+				"country": "US",
+				"distanceSoFar": 144300
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-73.8225142,
+					42.868398
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+		    	"title": "The Haunt",
+                "marker-color": "#ed184a",
+                "marker-symbol": "marker-15"
+			},
+			"information": {
+				"dateOfShow": "Thursday 03 November 2016",
+				"venue": "The Haunt",
+				"venueId": 61284,
+				"city": "Ithaca, NY",
+				"metroId": 20317,
+				"country": "US",
+				"distanceSoFar": 144581
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-76.5051489,
+					42.4514511
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+		    	"title": "Massey Hall",
+                "marker-color": "#ed184a",
+                "marker-symbol": "marker-15"
+			},
+			"information": {
+				"dateOfShow": "Friday 04 November 2016",
+				"supportAct": "Arkells",
+				"venue": "Massey Hall",
+				"venueId": 30045,
+				"venueImg2": true,
+				"city": "Toronto, ON",
+				"metroId": 27396,
+				"country": "Canada",
+				"distanceSoFar": 144983
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.37895000000003,
+					43.6538999
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+		    	"title": "Massey Hall",
+                "marker-color": "#ed184a",
+                "marker-symbol": "marker-15"
+			},
+			"information": {
+				"dateOfShow": "Saturday 05 November 2016",
+				"supportAct": "Arkells and The Sleeping Souls",
+				"venue": "Massey Hall",
+				"venueId": 30045,
+				"venueImg2": true,
+				"city": "Toronto, ON",
+				"metroId": 27396,
+				"country": "Canada",
+				"distanceSoFar": 144983
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.37895000000003,
+					43.6538999
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+		    	"title": "Maxïmo Park live - O2 Shepherd's Bush Empire",
+                "marker-color": "#ed184a",
+                "marker-symbol": "marker-15"
+			},
+			"information": {
+				"dateOfShow": "Tuesday 15 November 2016",
+				"supportAct": "Maxïmo Park, Jesse Hughes, Chas n Dave, Gaz Coombes, and Fran Healy",
+				"venue": "Maxïmo Park live - O2 Shepherd's Bush Empire", 
+				"venueId": 38320,
+				"venueImg2": true,
+				"city": "London",
+				"metroId": 24426,
+				"country": "UK",
+				"distanceSoFar": 150692
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-0.2242238000000043,
+					51.50349660000001
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+		    	"title": "Olympia Theatre",
+                "marker-color": "#ed184a",
+                "marker-symbol": "marker-15"
+			},
+			"information": {
+				"dateOfShow": "Wednesday 16 November 2016",
+				"venue": "Olympia Theatre",
+				"venueId": 38529,
+				"venueImg2": true,
+				"city": "Dublin",
+				"metroId": 29314,
+				"country": "Ireland",
+				"distanceSoFar": 151062
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-6.2661110000000235,
+					53.344278
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+		    	"title": "Salisbury",
+                "marker-color": "#ed184a",
+                "marker-symbol": "marker-15"
+			},
+			"information": {
+				"dateOfShow": "Friday 18 November 2016",
+				"venue": "City Hall",
+				"venueId": 45851,
+				"city": "Salisbury",
+				"metroId": 24584,
+				"country": "UK",
+				"distanceSoFar": 151649
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-1.800299799999948,
+					51.0700826
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+		    	"title": "Princess Pavilion",
+                "marker-color": "#ed184a",
+                "marker-symbol": "marker-15"
+			},
+			"information": {
+				"dateOfShow": "Saturday 19 November 2016",
+				"venue": "Princess Pavilion",
+				"venueId": 3534,
+				"city": "Falmouth",
+				"metroId": 24564,
+				"country": "UK",
+				"distanceSoFar": 151956
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-5.064881600000035,
+					50.14698600000001
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+		    	"title": "Liverpool Uni Mountford Hall",
+                "marker-color": "#ed184a",
+                "marker-symbol": "marker-15"
+			},
+			"information": {
+				"dateOfShow": "Monday 21 November 2016",
+				"supportAct": "Felix Hagan & the Family and Esme Patterson",
+				"venue": "Liverpool Uni Mountford Hall",
+				"venueId": 1236111,
+				"city": "Liverpool",
+				"metroId": 24526,
+				"country": "UK",
+				"distanceSoFar": 152524
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-2.9623149999999896,
+					53.4061218
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+		    	"title": "Sands Centre",
+                "marker-color": "#ed184a",
+                "marker-symbol": "marker-15"
+			},
+			"information": {
+				"dateOfShow": "Tuesday 22 November 2016",
+				"supportAct": "Felix Hagan & the Family and Esme Patterson",
+				"venue": "Sands Centre",
+				"venueId": 17652,
+				"city": "Carlisle",
+				"metroId": 24601,
+				"country": "UK",
+				"distanceSoFar": 152724
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-2.933567000000039,
+					54.8987083
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+		    	"title": "The Dome",
+                "marker-color": "#ed184a",
+                "marker-symbol": "marker-15"
+			},
+			"information": {
+				"dateOfShow": "Wednesday 23 November 2016",
+				"supportAct": "Felix Hagan & the Family and Esme Patterson",
+				"venue": "The Dome",
+				"venueId": 17638,
+				"city": "Doncaster",
+				"metroId": 24607,
+				"country": "UK",
+				"distanceSoFar": 152952
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-1.0971739999999954,
+					53.515892
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+		    	"title": "Empire Coventry",
+                "marker-color": "#ed184a",
+                "marker-symbol": "marker-15"
+			},
+			"information": {
+				"dateOfShow": "Friday 25 November 2016",
+				"supportAct": "Felix Hagan & the Family and Esme Patterson",
+				"venue": "Empire Coventry",
+				"venueId": 3033169,
+				"venueImg": true,
+				"city": "Coventry",
+				"metroId": 24530,
+				"country": "UK",
+				"distanceSoFar": 153112
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-1.5842450999999755,
+					52.4069608
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+		    	"title": "Great Hall - Cardiff University",
+                "marker-color": "#ed184a",
+                "marker-symbol": "marker-15"
+			},
+			"information": {
+				"dateOfShow": "Saturday 26 November 2016",
+				"supportAct": "Esme Patterson, Felix Hagan & the Family, and Frank Turner",
+				"venue": "Great Hall - Cardiff University",
+				"venueId": 50368,
+				"city": "Cardiff",
+				"metroId": 24583,
+				"country": "UK",
+				"distanceSoFar": 153312
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-3.1788641000000553,
+					51.4866271
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+		    	"title": "New Theatre Oxford",
+                "marker-color": "#ed184a",
+                "marker-symbol": "marker-15"
+			},
+			"information": {
+				"dateOfShow": "Sunday 27 November 2016",
+				"venue": "New Theatre Oxford",
+				"venueId": 625956,
+				"venueImg2": true,
+				"city": "Oxford",
+				"metroId": 24500,
+				"country": "UK",
+				"distanceSoFar": 153482
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-1.2599394000000075,
+					51.7539158
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+		    	"title": "Great Hall",
+                "marker-color": "#ed184a",
+                "marker-symbol": "marker-15"
+			},
+			"information": {
+				"dateOfShow": "Monday 28 November 2016",
+				"supportAct": "The Sleeping Souls",
+				"venue": "Great Hall",
+				"venueId": 3443,
+				"city": "Exeter",
+				"metroId": 24609,
+				"country": "UK",
+				"distanceSoFar": 153727
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-3.5375480000000152,
+					50.7353193
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+		    	"title": "The Hexagon",
+                "marker-color": "#ed184a",
+                "marker-symbol": "marker-15"
+			},
+			"information": {
+				"dateOfShow": "Wednesday 30 November 2016",
+				"supportAct": "Felix Hagan & the Family and Esme Patterson",
+				"venue": "The Hexagon",
+				"venueId": 1813,
+				"city": "Reading",
+				"metroId": 24480,
+				"country": "UK",
+				"distanceSoFar": 153984
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-0.9780296000000135,
+					51.4539118
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+		    	"title": "The Refectory - Leeds University",
+                "marker-color": "#ed184a",
+                "marker-symbol": "marker-15"
+			},
+			"information": {
+				"dateOfShow": "Thursday 01 December 2016",
+				"supportAct": "The Sleeping Souls, Felix Hagan & the Family and Esme Patterson",
+				"venue": "The Refectory - Leeds University",
+				"venueId": 32297,
+				"city": "Leeds",
+				"metroId": 24495,
+				"country": "UK",
+				"distanceSoFar": 154307
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-1.5564182000000528,
+					53.8069222
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+		    	"title": "The Garage",
+                "marker-color": "#ed184a",
+                "marker-symbol": "marker-15"
+			},
+			"information": {
+				"dateOfShow": "Friday 02 December 2016",
+				"supportAct": "Felix Hagan & the Family, Esme Patterson",
+				"venue": "The Garage",
+				"venueId": 1833983,
+				"city": "Aberdeen",
+				"metroId": 24596,
+				"country": "UK",
+				"distanceSoFar": 154877
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-2.102724299999977,
+					57.14484050000001
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+		    	"title": "Usher Hall",
+                "marker-color": "#ed184a",
+                "marker-symbol": "marker-15"
+			},
+			"information": {
+				"dateOfShow": "Saturday 03 December 2016",
+				"supportAct": "The Sleeping Souls, Esme Patterson and Felix Hagan & the Family",
+				"venue": "Usher Hall",
+				"venueId": 38580,
+				"city": "Edinburgh",
+				"metroId": 24551,
+				"country": "UK",
+				"distanceSoFar": 155082
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-3.2058090000000448,
+					55.94709400000001
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+		    	"title": "Scunthorpe",
+                "marker-color": "#ed184a",
+                "marker-symbol": "marker-15"
+			},
+			"information": {
+				"dateOfShow": "Monday 05 December 2016",
+				"supportAct": "Felix Hagan & the Family and Esme Patterson",
+				"venue": "Baths Hall",
+				"venueId": 58846,
+				"city": "Scunthorpe",
+				"metroId": 24611,
+				"country": "UK",
+				"distanceSoFar": 155493
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-0.6590610000000652,
+					53.5903665
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+		    	"title": "Pyramid & Parr Hall",
+                "marker-color": "#ed184a",
+                "marker-symbol": "marker-15"
+			},
+			"information": {
+				"dateOfShow": "Tuesday 06 December 2016",
+				"supportAct": "Felix Hagan & the Family and Esme Patterson",
+				"venue": "Pyramid & Parr Hall",
+				"venueId": 3787,
+				"city": "Warrington",
+				"metroId": 24526,
+				"country": "UK",
+				"distanceSoFar": 155663
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-2.596950099999958,
+					53.3900441
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+		    	"title": "Northumbria University Student Union",
+                "marker-color": "#ed184a",
+                "marker-symbol": "marker-15"
+			},
+			"information": {
+				"dateOfShow": "Wednesday 07 December 2016",
+				"supportAct": "Felix Hagan & the Family and Esme Patterson",
+				"venue": "Northumbria University Student Union",
+				"venueId": 32313,
+				"venueImg": true,
+				"city": "Newcastle Upon Tyne",
+				"metroId": 24577,
+				"country": "UK",
+				"distanceSoFar": 155920
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-1.6095860000000357,
+					54.978764
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+		    	"title": "Rock City",
+                "marker-color": "#ed184a",
+                "marker-symbol": "marker-15"
+			},
+			"information": {
+				"dateOfShow": "Friday 09 December 2016",
+				"venue": "Rock City",
+				"venueId": 16705,
+				"venueImg2": true,
+				"city": "Nottingham",
+				"metroId": 24549,
+				"country": "UK",
+				"distanceSoFar": 156177
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-1.1537644,
+					52.95622059999999
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+		    	"title": "De La Warr Pavilion",
+                "marker-color": "#ed184a",
+                "marker-symbol": "marker-15"
+			},
+			"information": {
+				"dateOfShow": "Saturday 10 December 2016",
+				"supportAct": "Felix Hagan & the Family and Esme Patterson",
+				"venue": "De La Warr Pavilion",
+				"venueId": 196988,
+				"venueImg2": true,
+				"city": "Bexhill-On-Sea",
+				"metroId": 24554,
+				"country": "UK",
+				"distanceSoFar": 156507
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					0.4712369999999737,
+					50.83781399999999
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+		    	"title": "Nick Rayns LCR - UEA",
+                "marker-color": "#ed184a",
+                "marker-symbol": "marker-15"
+			},
+			"information": {
+				"dateOfShow": "Sunday 11 December 2016",
+				"supportAct": "Felix Hagan & the Family and Esme Patterson",
+				"venue": "Nick Rayns LCR - UEA",
+				"venueId": 32315,
+				"venueImg2": true,
+				"city": "Norwich",
+				"metroId": 24518,
+				"country": "UK",
+				"distanceSoFar": 156784
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					1.2391761000000088,
+					52.6219215
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+		    	"title": "G Live",
+                "marker-color": "#ed184a",
+                "marker-symbol": "marker-15"
+			},
+			"information": {
+				"dateOfShow": "Monday 12 December 2016",
+				"supportAct": "Felix Hagan & the Family and Esme Patterson",
+				"venue": "G Live",
+				"venueId": 1262471,
+				"city": "Guildford",
+				"metroId": 24426,
+				"country": "UK",
+				"distanceSoFar": 157044
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-0.5658610000000408,
+					51.237991
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+		    	"title": "Portsmouth Guildhall",
+                "marker-color": "#ed184a",
+                "marker-symbol": "marker-15"
+			},
+			"information": {
+				"dateOfShow": "Wednesday 14 December 2016",
+				"supportAct": "Felix Hagan & the Family and Esme Patterson",
+				"venue": "Portsmouth Guildhall",
+				"venueId": 17482,
+				"venueImg2": true,
+				"city": "Portsmouth",
+				"metroId": 24478,
+				"country": "UK",
+				"distanceSoFar": 157114
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-1.0930610000000343,
+					50.7963265
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+		    	"title": "Rock City",
+                "marker-color": "#ed184a",
+                "marker-symbol": "marker-15"
+			},
+			"information": {
+				"dateOfShow": "Thursday 15 December 2016",
+				"venue": "Rock City",
+				"venueId": 16705,
+				"venueImg2": true,
+				"city": "Nottingham",
+				"metroId": 24549,
+				"country": "UK",
+				"distanceSoFar": 157419
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-1.1537644,
+					52.95622059999999
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+		    	"title": "Frank Turner 2017",
+                "marker-color": "#ed184a",
+                "marker-symbol": ""
+			},
+			"information": {
+				"dateOfShow": "180 Show",
+				"city": "Frank Turner 2017",
+				"country": "",
+				"distanceSoFar": 157419,
+				"end": true
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-41.1328125,
+					32.24997445586331
+				]
+			}
+		}
+	]
+}

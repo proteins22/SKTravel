@@ -1,0 +1,72 @@
+@import url('//fonts.googleapis.com/css?family=Alfa+Slab+One|Roboto+Slab:100,300,400,700');
+
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing:border-box;
+}
+
+body
+{
+    margin: 0;
+    padding: 0;
+    line-height: 130%;
+    font-size: 16px;
+    color: #fff;
+    font-family: 'Roboto Slab', Arial, sans-serif;
+}
+
+::-moz-selection
+{
+    color: white;
+    background: black;
+}
+
+::selection
+{
+    color: white; 
+    background: black;
+}
+
+.wrapper
+{
+    display: block;
+    width: 100%;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5
+{
+    line-height: 130%;
+    margin: 5px 0;
+    font-weight: 400;
+}
+
+h1
+{
+    font-family: 'Alfa Slab One';
+    color: #f80046;
+    letter-spacing: .5px;
+}
+
+p
+{
+    line-height: 130%;
+    margin: 5px 0;
+}
+
+a:link,
+a:visited
+{
+    color: #f80046;
+}
+
+a:hover,
+a:active
+{
+    color: #fff;
+}

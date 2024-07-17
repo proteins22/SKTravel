@@ -1,0 +1,582 @@
+.header
+{
+	display: block;
+	color: black;
+	padding: 30px;
+}
+
+.header h2
+{
+	color: #f80046;
+	font-size: 1.35em;
+	margin-bottom: 10px;
+}
+
+.header a:link,
+.header a:visited
+{
+	text-decoration: none;
+}
+
+.header a:hover,
+.header a:active
+{	
+	color: #f80046;
+	text-decoration: none;
+}
+
+.header h1
+{
+	font-size: 3.75em;
+	color: black;
+	border-bottom: 15px solid #f80046;
+	padding-bottom: 15px;
+	width: 416px;
+	white-space: nowrap;
+}
+
+.header span
+{
+	display: block;
+	line-height: 115%;
+}
+
+.artist {
+    width: 100%;
+    height: 400px;
+    position: relative;
+    margin-bottom: 12px;
+}
+
+.artist .hover
+{
+	display: block;
+	height: 100%;
+	width: 100%;
+	background-color: rgba(0, 0, 0, 0.8);
+    z-index: 99;
+    position: absolute;
+    transition:.5s ease-in all;
+    opacity: 0;
+    cursor: pointer;
+}
+
+.artist .hover:hover {
+	transition:.5s ease-in all;
+	opacity: 1;
+}
+
+.hover .text
+{
+	position: absolute;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100%;
+}
+
+
+.hover .text h4
+{
+	font-size: 1.25em;
+	font-weight: 700;
+}
+
+a.btn
+{
+	display: block;
+	width: 75px;
+	height: 75px;
+	background-color: #f80046;
+	border-radius: 15px;
+	border: white solid 5px;
+	background-image: url(../images/travel-icon.png);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: 50px;
+	transition:.5s ease-in all;
+	margin: 15px auto 0 auto;
+}
+
+a.btn:hover
+{
+	background-color: #fff;
+	background-image: url(../images/travel-icon-b.png);
+	transition:.5s ease-in all;
+}
+
+
+.artist .name
+{
+	position: absolute;
+	bottom: 30px;
+	right: 30px;
+	font-size: 4em;
+	z-index: 10;
+	color: #fff;
+	letter-spacing: .05em;
+	text-shadow: 0px 0px 10px #000;
+}
+
+.artist .image
+{
+	background-position: right top;
+	background-size: cover;
+	background-repeat: no-repeat;
+	width: 100%;
+	height: 100%;
+	position: absolute;
+	top: 0;
+	left: 0;
+	z-index: 2;
+}
+
+.artist1 .image
+{
+	background-image: url(../images/artist-1.jpg);
+}
+
+.artist2 .image
+{
+	background-image: url(../images/artist-2.jpg);
+}
+
+.artist3 .image
+{
+	background-image: url(../images/artist-3.jpg);
+}
+
+.artist4 .image
+{
+	background-image: url(../images/artist-4.jpg);
+}
+
+.artist5 .image
+{
+	background-image: url(../images/artist-5.jpg);
+}
+
+.artist6 .image
+{
+	background-image: url(../images/artist-6.jpg);
+}
+
+.artist7 .image
+{
+	background-image: url(../images/artist-7.jpg);
+}
+
+.artist8 .image
+{
+	background-image: url(../images/artist-8.jpg);
+}
+
+.artist9 .image
+{
+	background-image: url(../images/artist-9.jpg);
+}
+
+.artist10 .image
+{
+	background-image: url(../images/artist-10.jpg);
+}
+
+.artist .stats
+{
+	background-color: #f80046;
+	border-right: 15px white solid;
+	display: block;
+	height: 100%;
+	width: 401px;
+	position: absolute;
+	z-index: 4;
+	top: 0;
+	left: 0;
+	padding: 55px 30px;
+}
+
+.stats p
+{
+	font-size: 1.35em;
+	position: relative;
+	z-index: 10;
+	margin-top: 30px;
+}
+
+.stats h1
+{
+	color: white
+}
+
+.stats .shows
+{
+	font-size: 3.75em;
+}
+
+.stats .distance
+{
+	font-size: 2.5em;
+}
+
+.stats .button
+{
+	display: none;
+}
+
+.artist .triangle1,
+.artist .triangle2
+{
+	background-color: transparent;
+	display: block;
+	position: absolute;
+	top: 0;
+	left: 385px;
+	z-index: 4;
+	width: 0;
+	height: 0;
+	border-style: solid;
+	border-width: 400px 300px 0 0;
+	border-color: #f80046 transparent transparent transparent;
+}
+
+.artist .triangle2
+{
+	left: 400px;
+	border-color: #fff transparent transparent transparent;
+	z-index: 3;
+}
+
+.footer
+{
+	text-align: center;
+	padding: 15px;
+}
+
+.footer .text
+{
+	margin: 30px auto;
+}
+
+.footer .text a:link,
+.footer .text a:visited
+{
+	background: #888;
+	color: #ddd;
+	border-radius: 5px;
+	display: inline-block;
+	padding: 10px;
+	text-decoration: none;
+	transition:.5s ease-in all;
+}
+
+.footer .text a:hover,
+.footer .text a:active
+{
+	background-color: #000;
+	transition:.5s ease-in all;
+}
+
+.footer .text.app a
+{
+	font-size: 2em;
+	padding: 10px 15px;
+	margin:5px 15px;
+}
+
+.footer h1
+{
+	color: #888;
+	font-family: 'Roboto Slab';
+	font-size: 1em;
+}
+
+.footer .small
+{
+	font-size: .75em;
+}
+
+.footer .small a
+{
+	margin:0 15px;
+}
+
+/* mobile */
+.mobileDevice .hover {
+    display: none;
+}
+
+.mobileDevice .artist .stats {
+	padding-top: 15px;
+	padding-bottom: 15px;
+}
+
+.mobileDevice .button {
+    display: inline-block;
+    width: 100%;
+}
+
+.mobileDevice a.btn {
+    width: 100%;
+    background-position: 15px center;
+    background-color: #c20c3f;
+    margin-top: 20px;
+    text-decoration: none;
+}
+
+.mobileDevice a.btn:after {
+    content: "Interactive Recap";
+    color: #fff;
+    position: relative;
+    top: 22px;
+    left: 90px;
+    font-size: 1.5em;
+}
+
+@media screen and (max-width: 1300px)
+{
+	.artist .name
+	{
+		font-size: 3em;
+	}
+}
+
+@media screen and (max-width: 1200px)
+{	
+	.artist .stats
+	{
+		width: 316px;
+		white-space: nowrap;
+	}
+	.artist .triangle1
+	{
+		left: 300px
+	}
+	.artist .triangle2
+	{
+		left: 315px
+	}
+	.artist .image
+	{
+		background-position: 0 top;
+	}
+
+	.mobileDevice a.btn:after
+	{
+		left: 80px;
+    	font-size: 1em;
+	}
+}
+
+@media screen and (max-width: 968px)
+{	
+	.wrapper
+	{
+		width: 92%;
+		margin: 0 auto;
+	}
+	.header
+	{
+		padding-left: 0;
+		padding-right: 0;
+	}
+	.artist
+	{
+		height: 500px;
+		margin-bottom: 130px;
+	}
+	.artist .name
+	{
+	    position: relative;
+	    right: auto;
+	    color: #000;
+	    text-shadow: none;
+	    bottom: auto;
+	}
+	.artist .hover,
+	.artist .triangle1,
+	.artist .triangle2
+	{
+		display: none;
+	}
+	.artist .stats
+	{
+	    width: 100%;
+	    white-space: nowrap;
+	    height: 40%;
+	    bottom: -80px;
+	    border: none;
+	    top: auto;
+	    padding: 15px;
+
+	}
+	
+	.stats p
+	{
+		margin-top: 0;
+	}
+
+	.stats span
+	{
+		display: none;
+	}
+
+	.stats .shows
+	{
+		font-size: 2.5em;
+	}
+
+	.artist .image
+	{
+    	background-position: center top;
+    	top: 80px;
+    	background-size: 100%;
+	}
+
+	.artist1 .image
+	{
+		background-image: url(../images/artist-1-sm.jpg);
+	}
+	.artist2 .image
+	{
+		background-image: url(../images/artist-2-sm.jpg);
+	}
+	.artist3 .image
+	{
+		background-image: url(../images/artist-3-sm.jpg);
+	}
+	.artist4 .image
+	{
+		background-image: url(../images/artist-4-sm.jpg);
+	}
+	.artist5 .image
+	{
+		background-image: url(../images/artist-5-sm.jpg);
+	}
+	.artist6 .image
+	{
+		background-image: url(../images/artist-6-sm.jpg);
+	}
+	.artist7 .image
+	{
+		background-image: url(../images/artist-7-sm.jpg);
+	}
+	.artist8 .image
+	{
+		background-image: url(../images/artist-8-sm.jpg);
+	}
+	.artist9 .image
+	{
+		background-image: url(../images/artist-9-sm.jpg);
+	}
+	.artist10 .image
+	{
+		background-image: url(../images/artist-10-sm.jpg);
+	}
+
+	.stats .button
+	{
+		display: block;
+	}
+	.stats .text
+	{
+	    width: 60%;
+	    display: inline-block;
+	    vertical-align: middle;
+	}
+	.stats .button
+	{
+	    width: 40%;
+	    display: inline-block;
+	    vertical-align: middle;
+	    text-align: center;
+	}
+	.mobileDevice a.btn,
+	a.btn
+	{
+		width: 150px;
+    	height: 150px;
+    	background-color: #c20c3f;
+    	background-size: 80%;
+    	position: relative;
+    	background-position: center top;
+    	margin: 0 auto;
+	}
+	.mobileDevice a.btn:after,
+	a.btn:after
+	{
+	    content: "Interactive Recap";
+	    position: absolute;
+	    bottom: 10px;
+	    left: 13px;
+	    color: #fff;
+	    font-size: 14px;
+	    top: auto;
+	}
+}
+
+@media screen and (max-width: 640px)
+{
+	.header h2
+	{
+		font-size: 1em;
+	}
+	.header h1
+	{
+		font-size: 2em;
+		width: 100%;
+	}
+	.header
+	{
+		padding-bottom: 0;
+	}
+	.artist {
+	    height: auto;
+	    margin-bottom: 80px;
+	    position: static;
+	}
+	.artist .wrap
+	{
+		position:relative;
+		height: auto;
+    	padding-top: 100%;
+	}
+	.artist .name {
+	    font-size: 8vw;
+	    line-height: 100%;
+	    margin: 20px 0 10px 0;
+	}
+	.artist .image
+	{
+		top: 0;
+	}
+	.artist .stats
+	{
+		bottom: -40px;
+		height: 140px;
+	}
+	.stats p
+	{
+		font-size: 1em;
+	}
+	.stats .shows,
+	.stats .distance
+	{
+		font-size: 1.25em;
+	}
+	.mobileDevice a.btn,
+	a.btn
+	{
+		width: 90px;
+		height: 90px;
+	}
+	.mobileDevice a.btn:after,
+	a.btn:after
+	{
+		font-size: 8px;
+		bottom: 4px;
+		left: 6px;
+		top:auto;
+	}
+}
